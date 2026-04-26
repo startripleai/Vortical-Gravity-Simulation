@@ -15,7 +15,7 @@ The simulation reproduces the results of **Paper IV (Table 5)** with high precis
 
 | Galaxy | Radius ($R$) | Baryonic Density ($\rho$) | $G$ Recovery Ratio | Predicted Velocity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Milky Way** | 25 kpc | $6.31 \times 10^{-23}$ kg/m³ | **1.78** | **173.1 km/s** |
+| **Milky Way** | 25 kpc | $6.31 \times 10^{-23}$ kg/m³ | **2.88** | **173.1 km/s** |
 | **Andromeda** | 30 kpc | $9.12 \times 10^{-23}$ kg/m³ | **2.05** | **210.7 km/s** |
 | **Triangulum** | 15 kpc | $2.44 \times 10^{-23}$ kg/m³ | **5.46** | **88.8 km/s** |
 

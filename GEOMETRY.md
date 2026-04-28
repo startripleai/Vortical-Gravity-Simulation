@@ -1,4 +1,4 @@
-# 🌌 GEOMETRY.md: The Structural Regulation of Galactic Thickness
+# 🌌 The Structural Regulation of Galactic Thickness
 
 ## 1. Executive Summary
 In the **Vortical Gravity** framework, the 3D geometry of a galaxy—specifically the thickness of its stellar and gaseous disk—is not a result of random velocity dispersion. Instead, it is a **Topological Equilibrium** between the restorative **Expansion Pressure ($P_{EP}$)** of the spacetime lattice and the localized damping of the gravitational constant ($G$).

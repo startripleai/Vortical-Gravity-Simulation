@@ -36,7 +36,7 @@ The simulation reproduces the results of **Paper IV (Table 5)** with high precis
 1. **Paper I**: [Lattice Stiffness & The G-Unit]([https://doi.org](https://doi.org/10.5281/zenodo.19652476)
 2. **Paper II**: [Singularity Resolution & The Vortical Radius]([https://doi.org](https://doi.org/10.5281/zenodo.19664079)
 3. **Paper III**: [The Volumetric Vortex & Light Emergence]([https://doi.org](https://doi.org/10.5281/zenodo.19682553)
-4. **Paper IV**: [The Emergent Dark Sector & The $10^{122}$ Resolution]([https://doi.org]https://doi.org/10.5281/zenodo.19786931)
+4. **Paper IV**: [The Emergent Dark Sector & The $10^{122}$Resolution]([https://doi.org]https://doi.org/10.5281/zenodo.19786931)
 
 ## ⚖️ License & Citation
 Copyright © 2026 D. H. Oh. All rights reserved. 

@@ -39,7 +39,7 @@ The simulation reproduces the results of **Paper IV (Table 5)** with high precis
 2. **Paper II**: [Singularity Resolution & The Vortical Radius]([https://doi.org](https://doi.org/10.5281/zenodo.19664079)
 3. **Paper III**: [The Volumetric Vortex & Light Emergence]([https://doi.org](https://doi.org/10.5281/zenodo.19682553)
 4. **Paper IV**: [The Emergent Dark Sector The 10^122 Resolution (v1.0.1]([https://doi.org](https://doi.org/10.5281/zenodo.19786931)
-5.               [The Emergent Dark Sector The 10^122 Resolution (v1.0.2]([https://doi.org](https://doi.org/10.5281/zenodo.19859532)
+5. *Paper IV*: [The Emergent Dark Sector The 10^122 Resolution (v1.0.2]([https://doi.org](https://doi.org/10.5281/zenodo.19859532)
 
 ## ⚖️ License & Citation
 Copyright © 2026 D. H. Oh. All rights reserved. 

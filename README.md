@@ -1,4 +1,4 @@
-# 🌌 Vortical Gravity Simulation Engine (Ver 1.0.1)
+# 🌌 Vortical Gravity Simulation Engine (Ver 1.0.2)
 
 This repository provides the official numerical verification and visualization tools for the **Vortical Gravity** framework, as presented in the *Absolute Quadrilogy* (Papers I–IV). 
 

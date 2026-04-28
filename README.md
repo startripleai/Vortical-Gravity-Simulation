@@ -19,6 +19,8 @@ The simulation reproduces the results of **Paper IV (Table 5)** with high precis
 | **Andromeda** | 30 kpc | $9.12 \times 10^{-23}$ kg/m³ | **2.051** | **210.7 km/s** |
 | **Triangulum** | 15 kpc | $2.44 \times 10^{-23}$ kg/m³ | **5.463** | **88.8 km/s** |
 
+[Read more about Galactic Geometry](GEOMETRY.md).([https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/GEOMETRY.md])
+
 ## 🛠 Installation & Usage
 ### Prerequisites
 - Python 3.10+

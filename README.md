@@ -12,12 +12,14 @@ The engine simulates galactic rotation curves and resolves the "Dark Sector" ano
 ## 📊 Galactic Validation Overview
 The simulation reproduces the results of **Paper IV (Table 5)** with high precision:
 
-
 | Galaxy | Radius ($R$) | Baryonic Density ($\rho$) | $G$ Recovery Ratio | Predicted Velocity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Milky Way** | 25 kpc | $6.31 \times 10^{-23}$ kg/m³ | **2.885** | **173.1 km/s** |
 | **Andromeda** | 30 kpc | $9.12 \times 10^{-23}$ kg/m³ | **2.051** | **210.7 km/s** |
 | **Triangulum** | 15 kpc | $2.44 \times 10^{-23}$ kg/m³ | **5.463** | **88.8 km/s** |
+
+### 📐 Geometric Calibration Note
+As per standard galactic dynamics (Binney & Tremaine), the non-spherical disk geometry enhances the radial gravitational gradient by approximately **10%–15%** relative to a spherical baseline. In this simulation, this geometric factor is integrated into the baseline Newtonian values, with the remaining significant discrepancy resolved entirely through the **Vortical G-Recovery** mechanism.
 
 [Read more about Galactic Geometry]([GEOMETRY.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/GEOMETRY.md)
 

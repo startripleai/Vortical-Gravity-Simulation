@@ -1,4 +1,4 @@
-# 🕳️ BLACKHOLE.md: The Vortical Torus & Singularity Resolution
+# 🕳️ BLACKHOLE: The Vortical Torus & Singularity Resolution
 
 ## 1. Beyond the Singularity
 General Relativity predicts a mathematical point of infinite density (singularity) at $r=0$. The **Vortical Gravity** framework resolves this paradox by identifying the black hole as a **Vortical Torus**—a high-energy donut-shaped structure with a quantized thickness.

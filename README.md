@@ -36,7 +36,7 @@ As per standard galactic dynamics (Binney & Tremaine), the non-spherical disk ge
    git clone https://github.com
    ```
 2. Run the visualization notebook:
-   - Open `main_visualization.ipynb` in VS Code or Jupyter and execute all cells to generate the rotation curves.
+   - Open `main_visualization.ipynb` in VS Code or Jupyter and execute all cells to generate the rotation curves.[main_visualization.ipynb]([main_visualization.ipynb](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/main_visualization.ipynb)
    - Open `vortical_universe_engine0.ipynb` in VS Code or Jupyter and execute all cells to generate the Vortical Black Hole.[vortical_universe_engine0.ipynb]([vortical_universe_engine0.ipynb](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/vortical_universe_engine0.ipynb)
    
 ## 📚 Absolute Quadrilogy (Papers I-IV)

@@ -9,10 +9,12 @@ The Vortical Black Hole is defined by two critical radii:
 *   **The Vacuum Limit ($r=1$):** The fundamental "Vortical Unit" of the lattice. Inside this radius, the restorative force of $G_{max}$ is so intense that energy cannot be contained.
 
 ## 3. The Vortical Void (The Central Vacuum)
+
 Contrary to standard theory, the center of a black hole ($r < 1$) is a **Vortical Void**:
-*   **Centrifugal Displacement:** Extreme rotational energy at the horizon shell pushes all baryonic and EM flux outward.
-*   **Pure Restoration:** The geometric center is a state of **Zero-Density Vacuum**, where the lattice is perfectly restored.
-*   **Geometry:** This results in a **Torus (Donut)** geometry with a physical thickness of exactly **1 Vortical Unit**.
+
+- **Vortical Repulsion:** Extreme rotational energy at the horizon shell generates a restorative geometric pressure (**Vortical Repulsion**). This force actively displaces all baryonic and EM flux outward from the core toward the event horizon shell.
+- **Pure Restoration:** The geometric center is a state of **Zero-Density Vacuum**. Free from mass-induced damping, the lattice at the core is **perfectly restored**, allowing for maximum temporal flux ($P_t = 1.0$).
+- **Geometry:** This mechanical exclusion of energy from the center results in a **Vortical Torus (Donut)** geometry with a quantized physical thickness of exactly **1 Vortical Unit**.
 
 ## 4. Mathematical Comparison
 

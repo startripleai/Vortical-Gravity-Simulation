@@ -24,4 +24,42 @@ Contrary to standard theory, the center of a black hole ($r < 1$) is a **Vortica
 | **$P_t^2 + P_\theta^2$** | N/A | **Always 1 (Conserved)** |
 
 ---
-*This model explains why Black Holes can eject powerful relativistic jets through their hollow vacuum centers, a phenomenon difficult to explain with a solid singularity.*
+*This model explains why Black Holes can eject powerful relativistic jets through their hollow vacuum centers, a phenomenon 
+
+![vortical_blackhole_final.png,](vortical_blackhole_final.png)
+
+## 📊 Probabilistic Dynamics by Radius (Lattice Partitioning)
+
+The Vortical Black Hole is governed by the **Probability Invariance Identity** ($P_t^2 + P_{\theta}^2 = 1$). The following analysis explains how the spacetime lattice partitions its energy between **Temporal Flux ($P_t$)** and **Vortical Rotation ($P_{\theta}$)** across different radial zones.
+
+### 1. The Central Vacuum Zone ($0 \le r < 1$)
+*   **State:** $P_t \to 1.0$ (100%), $P_{\theta} \to 0$
+*   **Physics:** In this core region, the lattice undergoes **total restitution**. Because the energy density ($\rho$) is zero, the lattice stiffness ($\eta$) is fully utilized for temporal progression.
+*   **Resolution:** This is the **Vortical Void**. It replaces the infinite-density singularity of General Relativity with a state of pure vacuum, where time flows at its maximum theoretical rate.
+
+### 2. The Vortical Torus Shell ($1 \le r < 2$)
+*   **State:** $P_t \to 0$ (0%), $P_{\theta} \to 1.0$ (100%)
+*   **Physics:** This is the region of **maximum lattice damping**. The energy is entirely "trapped" in a self-closed vortex. According to the identity, as $P_{\theta}$ saturates to 1, the capacity for temporal flux ($P_t$) is completely consumed.
+*   **Structure:** This defines the **quantized thickness (1 unit)** of the black hole. It is a massive, rotating shell where information is preserved on the lattice surface rather than lost in a singularity.
+
+### 3. The External Recovery Zone ($r \ge 2$)
+*   **State:** $P_t^2 + P_{\theta}^2 = 1$ (Dynamic Recovery)
+*   **Physics:** Beyond the event horizon ($r=2$), the lattice stress attenuates. The energy is redistributed from rotation ($P_{\theta}$) back into linear flux ($P_t$).
+*   **Baseline:** The efficiency rises from the horizon through the **Terrestrial Baseline ($P_{t,\oplus} \approx 0.183$)**, eventually reaching the vacuum standard ($1.0$) at infinite distance.
+
+### 💡 Summary Table: Probabilistic States
+
+
+| Radial Zone | Lattice Phase | $P_t$ (Time) | $P_{\theta}$ (Gravity) | Physical Manifestation |
+| :--- | :--- | :--- | :--- | :--- |
+| **$0 \le r < 1$** | **Pure Vacuum** | **1.0 (Max)** | 0.0 (Min) | **Vortical Void (No Singularity)** |
+| **$1 \le r < 2$** | **Vortical Shell**| 0.0 (Stop) | **1.0 (Max)** | **Quantized Torus (Massive)** |
+| **$r \ge 2$** | **Damped Field** | $0.183 \uparrow$ | $P_{\theta} \downarrow$ | **Democratic Recovery Field** |
+
+---
+*The transition at $r=1$ and $r=2$ represents a geometric phase transition of the spacetime fabric, ensuring numerical stability and physical continuity without mathematical infinities.*
+
+
+
+
+difficult to explain with a solid singularity.*

@@ -24,7 +24,7 @@ Contrary to standard theory, the center of a black hole ($r < 1$) is a **Vortica
 | **$P_t^2 + P_\theta^2$** | N/A | **Always 1 (Conserved)** |
 
 ---
-*This model explains why Black Holes can eject powerful relativistic jets through their hollow vacuum centers, a phenomenon 
+*This model explains why Black Holes can eject powerful relativistic jets through their hollow vacuum centers, a phenomenon difficult to explain with a solid singularity.*ㅋ
 
 ![vortical_blackhole_final.png,](vortical_blackhole_final.png)
 
@@ -58,8 +58,3 @@ The Vortical Black Hole is governed by the **Probability Invariance Identity** (
 
 ---
 *The transition at r=1 and r=2 represents a geometric phase transition of the spacetime fabric, ensuring numerical stability and physical continuity without mathematical infinities.*
-
-
-
-
-difficult to explain with a solid singularity.*

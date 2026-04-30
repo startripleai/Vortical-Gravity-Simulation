@@ -57,7 +57,7 @@ The Vortical Black Hole is governed by the **Probability Invariance Identity** (
 | **$r \ge 2$** | **Damped Field** | $0.183 \uparrow$ | $P_{\theta} \downarrow$ | **Democratic Recovery Field** |
 
 ---
-*The transition at $r=1$ and $r=2$ represents a geometric phase transition of the spacetime fabric, ensuring numerical stability and physical continuity without mathematical infinities.*
+*The transition at r=1 and r=2 represents a geometric phase transition of the spacetime fabric, ensuring numerical stability and physical continuity without mathematical infinities.*
 
 
 

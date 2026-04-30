@@ -24,7 +24,7 @@ Contrary to standard theory, the center of a black hole ($r < 1$) is a **Vortica
 | **$P_t^2 + P_\theta^2$** | N/A | **Always 1 (Conserved)** |
 
 ---
-*This model explains why Black Holes can eject powerful relativistic jets through their hollow vacuum centers, a phenomenon difficult to explain with a solid singularity.*ㅋ
+*This model explains why Black Holes can eject powerful relativistic jets through their hollow vacuum centers, a phenomenon difficult to explain with a solid singularity.*
 
 ![vortical_blackhole_final.png,](vortical_blackhole_final.png)
 

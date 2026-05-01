@@ -25,6 +25,8 @@ As per standard galactic dynamics (Binney & Tremaine), the non-spherical disk ge
 
 [Read more about Vortical Black Hole]([BLACKHOLE.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/BLACKHOLE.md)
 
+[Read more about GRAVITY]([GRAVITY.md](https://github.com/startripleai/vortical-quantum-gravity/blob/main/GRAVITY.md)
+
 ## 🛠 Installation & Usage
 ### Prerequisites
 - Python 3.10+

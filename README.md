@@ -44,7 +44,7 @@ As per standard galactic dynamics (Binney & Tremaine), the non-spherical disk ge
 
 ![vortical_blackhole_final.png,](vortical_blackhole_final.png)
 
-- Open `vortical_universe_engine122.ipynb` in VS Code or Jupyter and execute all cells to verify the energy balance of the entire universe and the 1,000-fold gap (Dark Energy)..[vortical_universe_engine122.ipynb]([vortical_universe_engine122.ipynb](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/vortical_universe_engine122.ipynb)
+- Open `vortical_universe_engine122.ipynb` in VS Code or Jupyter and execute all cells to verify the energy balance of the entire universe and the 1,000-fold gap (Dark Energy).[vortical_universe_engine122.ipynb]([vortical_universe_engine122.ipynb](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/vortical_universe_engine122.ipynb)
 
 ## 📚 Absolute Quadrilogy (Papers I-IV)
 1. **Paper I**: [Lattice Stiffness & The G-Unit]([https://doi.org](https://doi.org/10.5281/zenodo.19652476)

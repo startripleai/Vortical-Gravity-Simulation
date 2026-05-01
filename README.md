@@ -21,11 +21,11 @@ The simulation reproduces the results of **Paper IV (Table 5)** with high precis
 ### 📐 Geometric Calibration Note
 As per standard galactic dynamics (Binney & Tremaine), the non-spherical disk geometry enhances the radial gravitational gradient by approximately **10%–15%** relative to a spherical baseline. In this simulation, this geometric factor is integrated into the baseline Newtonian values, with the remaining significant discrepancy resolved entirely through the **Vortical G-Recovery** mechanism.
 
-[Read more about Galactic Geometry]([GEOMETRY.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/GEOMETRY.md))
+[Read more about Galactic Geometry]([GEOMETRY.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/GEOMETRY.md) )
 
-[Read more about Vortical Black Hole]([BLACKHOLE.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/BLACKHOLE.md))
+[Read more about Vortical Black Hole]([BLACKHOLE.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/BLACKHOLE.md) )
 
-[Read more about GRAVITY]([GRAVITY.md](https://github.com/startripleai/vortical-quantum-gravity/blob/main/GRAVITY.md))
+[Read more about GRAVITY]([GRAVITY.md](https://github.com/startripleai/vortical-quantum-gravity/blob/main/GRAVITY.md) )
 
 ## 🛠 Installation & Usage
 ### Prerequisites

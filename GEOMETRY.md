@@ -26,7 +26,7 @@ This model provides a first-principles explanation for the structural difference
 The disk thickness is the minimum vertical volume required to satisfy the **Probability Invariance Identity**:
 $$P_t^2 + P_{\theta}^2 = 1$$
 
-To maintain the **Broken Balance ($dt$)**, the lattice must maintain enough vertical "breathing room" to prevent the manifold from reaching the saturation limit ($X=1$), which would otherwise trigger a phase transition into a singularity.
+To maintain the **Discrete Temporal Symmetry Breaking ($dt$)**, the lattice must maintain enough vertical "breathing room" to prevent the manifold from reaching the saturation limit ($X=1$), which would otherwise trigger a phase transition into a singularity.
 
 ---
 *This document is part of the **Vortical Gravity Research Series** and supports the numerical findings presented in **Paper IV: The Emergent Dark Sector**.*

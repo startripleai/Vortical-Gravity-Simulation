@@ -49,6 +49,17 @@ A distinct behavior of the **Yellow Pt Indicator** is its initial movement to th
 
 This "Out-then-In" motion proves that the simulator is not just a static descent, but a dynamic reenactment of the **Star-to-Black-Hole Lifecycle**, capturing the exact moment of gravitational victory over internal pressure.
 
+## 5. Scaling for Visual Observation (The $10^{-9}$ Reality)
+In actual cosmic events, a Massive Star collapses into a Black Hole by a compression factor of approximately **$10^{-9}$**. Mathematically, the final **Vortical Torus** would be nearly infinitesimal compared to the initial stellar radius.
+
+### Numerical Scaling Strategy:
+To ensure the **Vortical Dynamics** and the **Phase Transition** at $r=1$ are observable for scientific analysis, this simulator uses a **Scaled Radius Model**:
+*   **Actual Physical Scale:** $r_{collapse} \approx 10^{-9} \times r_{star}$
+*   **Simulator Visual Scale:** $r_{collapse} \approx 4 \times 10^{-2} \times r_{star}$ (approx. 25-50x compression)
+
+### Purpose of Scaling:
+By intentionally minimizing the extreme $r$-variance, the simulator allows researchers to clearly monitor the **Critical Stalling at $r=1$** and the **Vortical Repulsion** behavior. Without this scaling, the transition of the $P_t$ indicator and the formation of the **Vortical Void** would occur within a sub-pixel region, making visual verification impossible. However, the underlying **Mathematical Partitioning ($P_t^2 + P_{\theta}^2 = 1$)** and the lattice phase logic remain invariant and physically consistent regardless of the visual scale used.
+
 ---
 **Summary of the Absolute Quadrilogy Simulation:**
 1. **Initial State ($0.54$):** Balanced massive star in the $G_{max}$ baseline.

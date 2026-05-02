@@ -25,6 +25,8 @@ As per standard galactic dynamics (Binney & Tremaine), the non-spherical disk ge
 
 [Read more about Vortical Black Hole]([BLACKHOLE.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/BLACKHOLE.md)
 
+[Read more about Vortical_Black_Hole_Dynamic_Simulator]([COMPARISON.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/COMPARISON.md)
+
 [Read more about GRAVITY]([GRAVITY.md](https://github.com/startripleai/vortical-quantum-gravity/blob/main/GRAVITY.md)
 
 ## 🛠 Installation & Usage
@@ -46,7 +48,11 @@ As per standard galactic dynamics (Binney & Tremaine), the non-spherical disk ge
 
 ![vortical_blackhole_final.png,](vortical_blackhole_final.png)
 
-- Open `vortical_universe_engine122.ipynb` in VS Code or Jupyter and execute all cells to verify the energy balance of the entire universe and the 1,000-fold gap (Dark Energy).[vortical_universe_engine122.ipynb]([vortical_universe_engine122.ipynb](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/vortical_universe_engine122.ipynb)
+   - Open `vortical_universe_engine122.ipynb` in VS Code or Jupyter and execute all cells to verify the energy balance of the entire universe and the 1,000-fold gap (Dark Energy).[vortical_universe_engine122.ipynb]([vortical_universe_engine122.ipynb](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/vortical_universe_engine122.ipynb)
+
+   - Open `Vortical_Black_Hole_Dynamic_Simulator_(v2.6).ipynb` in VS Code or Jupyter and execute all cells to generate the Vortical_Black_Hole_Dynamic_Simulator_(v2.6).[Vortical_Black_Hole_Dynamic_Simulator_(v2.6).ipynb]([Vortical_Black_Hole_Dynamic_Simulator_(v2.6).ipynb](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/Vortical_Black_Hole_Dynamic_Simulator_(v2.6).ipynb)
+
+![Dynamic_Simulator_(v2.6)_10x.gif,](Dynamic_Simulator_(v2.6)_10x.gif)
 
 ## 📚 Absolute Quadrilogy (Papers I-IV)
 1. **Paper I**: [Lattice Stiffness & The G-Unit]([https://doi.org](https://doi.org/10.5281/zenodo.19652476)

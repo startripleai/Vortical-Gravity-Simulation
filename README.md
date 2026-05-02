@@ -27,6 +27,8 @@ As per standard galactic dynamics (Binney & Tremaine), the non-spherical disk ge
 
 [Read more about Vortical Black Hole Dynamic Simulator]([COMPARISON.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/COMPARISON.md)
 
+[Read more about the Necessity of Rotation for Singularity Resolution]([DISCUSSION.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/DISCUSSION.md)
+
 [Read more about GRAVITY]([GRAVITY.md](https://github.com/startripleai/vortical-quantum-gravity/blob/main/GRAVITY.md)
 
 ## 🛠 Installation & Usage

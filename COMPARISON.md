@@ -76,7 +76,7 @@ Beyond this point, the lattice cannot compress further without violating the $10
 
 
 ---
-**Summary of the Absolute Quadrilogy Simulation:**
+**Summary of the Vortical Gravity framework Simulation:**
 1. **Initial State ($0.54$):** Balanced massive star in the $G_{max}$ baseline.
 2. **Expansion:** Transient rightward shift of the $P_t$ indicator.
 3. **Collapse:** Rapid leftward snap as $r \to 2$ (Lattice Damping).

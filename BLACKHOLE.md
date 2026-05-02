@@ -39,6 +39,8 @@ This simulation demonstrates the transition from a damped terrestrial baseline t
 
 ![Dynamic_Simulator_(v2.6)_10x.gif,](Dynamic_Simulator_(v2.6)_10x.gif)
 
+[Read more about the Necessity of Rotation for Singularity Resolution]([DISCUSSION.md]([https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/DISCUSSION.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/DISCUSSION.md))
+
 ### **Technical Breakdown of the Plot:**
 
 1.  **The Vortical Void ($r < 1$):** 

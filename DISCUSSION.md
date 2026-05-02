@@ -32,3 +32,5 @@ The **Vortical Black Hole** (equivalent to a Kerr-like state but with discrete m
 ## **Conclusion**
 
 Rotation is not an optional feature of a black hole; it is the **Mechanical Engine** that resolves the singularity. By trading linear time ($P_t \to 0$) for spatial rotation ($P_{\theta} \to 1$), the lattice constructs a stable **Vortical Torus** that preserves the finite energy of the system while restoring the vacuum at its core.
+
+![Dynamic_Simulator_(v2.6)_10x.gif,](Dynamic_Simulator_(v2.6)_10x.gif)

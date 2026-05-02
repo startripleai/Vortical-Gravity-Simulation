@@ -35,6 +35,10 @@ Contrary to standard theory, the center of a black hole ($r < 1$) is a **Vortica
 **Figure 2. Mechanical State of the Spacetime Lattice across Radial Zones.**  
 This simulation demonstrates the transition from a damped terrestrial baseline to a restored vacuum potential within a black hole's interior, governed by the **Probability Invariance Identity** ($P_t^2 + P_{\theta}^2 = 1$).
 
+[Read more about Vortical Black Hole Dynamic Simulator]([COMPARISON.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/COMPARISON.md)
+
+![Dynamic_Simulator_(v2.6)_10x.gif,](Dynamic_Simulator_(v2.6)_10x.gif)
+
 ### **Technical Breakdown of the Plot:**
 
 1.  **The Vortical Void ($r < 1$):** 

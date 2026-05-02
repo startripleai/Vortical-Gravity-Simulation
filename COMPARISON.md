@@ -60,22 +60,20 @@ To ensure the **Vortical Dynamics** and the **Phase Transition** at $r=1$ are ob
 ### Purpose of Scaling:
 By intentionally minimizing the extreme $r$-variance, the simulator allows researchers to clearly monitor the **Critical Stalling at $r=1$** and the **Vortical Repulsion** behavior. Without this scaling, the transition of the $P_t$ indicator and the formation of the **Vortical Void** would occur within a sub-pixel region, making visual verification impossible. However, the underlying **Mathematical Partitioning ($P_t^2 + P_{\theta}^2 = 1$)** and the lattice phase logic remain invariant and physically consistent regardless of the visual scale used.
 
-## 6. The Physical Meaning of the $10^{-9}$ Limit: Stiffness Saturation
+## 6. The Physical Meaning of the $10^{-9}$ Limit: Stiffness Synchronization
 
-The compression ratio stalling at **$10^{-9}$** is not an arbitrary cutoff, but a fundamental structural limit of the discrete spacetime manifold. It marks the exact point of **Stiffness Synchronization**.
+The compression ratio stalling at **$10^{-9}$** marks the exact threshold where the local inflation hits the "structural ceiling" of the global baseline.
 
-### A. The $10^{82}$ Equilibrium
-As a Massive Star collapses, the **Local Stiffness Inflation ($\eta_{loc}$)** rises exponentially to accommodate the increasing energy density. The $10^{-9}$ compression ratio represents the critical threshold where:
+### A. The $10^{82}$ Synchronization
+As a star collapses, $\eta_{loc}$ rises exponentially. At the $10^{-9}$ limit, the resistance of the local node reaches the total structural restorative force of the entire cosmic lattice:
 $$\eta_{local} \approx \eta_{global} \approx 10^{82}$$
-At this specific ratio, the localized resistance of a single node reaches the total structural restorative force of the entire cosmic lattice baseline.
 
-### B. Structural Stalling and Phase Transition
-Beyond this point, the lattice cannot be compressed further without violating the $10^{82}$ cosmic constant. 
-1. **The Stall:** Radial collapse ($v_r$) is physically halted as the local stiffness hits the "ceiling" of the global baseline.
-2. **The Vortex:** To resolve the incoming gravitational energy, the lattice undergoes a **Phase Transition**. The energy is redirected from linear compression to **Vortical Rotation** ($P_{\theta} \to 1$).
-3. **The Shield:** This transition triggers the **Vortical Repulsion ($F_{vr}$)**, maintaining the stable $10^{-9}$ ratio and creating the **Vortical Void**.
+### B. The Final Rebound & Vortical Void
+Beyond this point, the lattice cannot compress further without violating the $10^{82}$ cosmic constant. 
+1. **The Stall:** Radial collapse is halted as the "stretched spring" of the lattice hits its maximum tension.
+2. **The Vortex:** The system resolves this tension by transitioning into **Vortical Rotation** ($P_{\theta} \to 1$).
+3. **The Ultimate Recovery:** This phase transition creates the **Vortical Void**, where the lattice finally succeeds in restoring the pure $\eta \approx 10^{82}$ state at the core, bypassing mass-induced inflation.
 
-**Conclusion:** The $10^{-9}$ limit is the "Structural Anchor" of a black hole. It is the geometric evidence that the universe possesses a finite, discrete stiffness that forbids infinite density.
 
 ---
 **Summary of the Absolute Quadrilogy Simulation:**

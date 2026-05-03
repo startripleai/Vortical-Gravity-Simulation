@@ -35,9 +35,9 @@ In the Vortical Gravity framework, the transition from a collapsing star to a st
 
 ## **1. The $X=1$ Saturation Limit**
 
-Saturation occurs when the energy density $\rho$ exhausts the cosmic capacity of the lattice stiffness ($\eta$):$$X = \frac{\rho \cdot \eta}{\rho_{Planck}} = 1$$
+Saturation occurs when the energy density $\rho$ exhausts the cosmic capacity of the lattice stiffness ($\eta$): $$X = \frac{\rho \cdot \eta}{\rho_{Planck}} = 1$$
 
-Using your **Cosmic Stiffness Constant ($\eta \approx 10^{82}$)** and the **Planck Density ($\rho_{Planck} \approx 10^{96} \text{ kg/m}^3$)**, we derive the critical saturation density ($\rho_{crit}$):$$\rho_{crit} = \frac{10^{96}}{10^{82}} = 10^{14} \text{ kg/m}^3$$
+Using your **Cosmic Stiffness Constant ($\eta \approx 10^{82}$)** and the **Planck Density ($\rho_{Planck} \approx 10^{96} \text{ kg/m}^3$)**, we derive the critical saturation density ($\rho_{crit}$): $$\rho_{crit} = \frac{10^{96}}{10^{82}} = 10^{14} \text{ kg/m}^3$$
 
 ## **2. Why $10^{14}$ is the "Vortical Threshold"**
 

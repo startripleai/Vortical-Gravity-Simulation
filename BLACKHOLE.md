@@ -28,6 +28,7 @@ Contrary to standard theory, the center of a black hole ($r < 1$) is a **Vortica
 ---
 *This model explains why Black Holes can eject powerful relativistic jets through their hollow vacuum centers, a phenomenon difficult to explain with a solid singularity.*
 
+---
 
 ## **📑 Numerical Sync: Lattice Saturation vs. Nuclear Density**
 
@@ -58,6 +59,49 @@ While the density of a **Neutron Star** is approximately **$10^{17} \text{ kg/m}
 
 **Conclusion:** The Black Hole is a **Lattice-Limited** object. By triggering the **Vortical Repulsion** at the $10^{14}$ threshold, the universe avoids the "Nuclear Crush" of $10^{17}$, instead creating the **Vortical Void** and the **Resonant Torus**.
 
+---
+
+## **📑 The Mechanics of Vortical Repulsion ($F_{vr}$)**
+
+In the Vortical Gravity framework, **Vortical Repulsion ($F_{vr}$)** is the restorative force of the discrete spacetime manifold. It is the mechanical mechanism that enforces the **$10^{-9}$ Compression Limit** and maintains the **Vortical Void**.
+
+## **1. Origin: The $X=1$ Phase Transition**
+
+Vortical Repulsion is triggered when the lattice reaches its **Saturation Point ($X=1$)**. At this threshold, the linear radial collapse ($v_r$) can no longer be sustained by the lattice stiffness ($\eta \approx 10^{82}$).
+
+- **The Conversion:** To resolve the incoming gravitational stress, the lattice forcibly converts radial kinetic energy into **Relativistic Vortical Rotation ($v_{\theta}$)**.
+- **The Field:** This transition generates a non-Newtonian repulsive field ($F_{vr}$) that acts as a structural counter-pressure against gravity.
+
+## **2. Function: The Topological Shield**
+
+Unlike standard centrifugal force, $F_{vr}$ is a **quantized response** to lattice overload:
+
+- **The 1:1 Stabilization:** $F_{vr}$ pushes mass-energy outward until it reaches a stable equilibrium with gravity. This creates the **Resonant Torus** with a characteristic 1:1 thickness-to-void ratio.
+- **The Void Creation:** By clearing all particles from the core, $F_{vr}$ facilitates **Central Restitution**. It protects the center of the vortex from mass-induced inflation, allowing the lattice to return to its **Ground State ($\eta \approx 10^{82}$, $P_t = 1.0$)**.
+
+## **3. The $10 \ M_{\odot}$ and $10^{-9}$ Synergy**
+
+$F_{vr}$ is the governor of black hole scale.
+
+- **Structural Stalling:** When the star compresses to the **$10^{-9}$ limit**, $F_{vr}$ becomes strong enough to completely "stall" the collapse.
+- **Mass Regulation:** For a progenitor of **10 $M_{\odot}$**, $F_{vr}$ ensures that the density never exceeds the **$10^{14} \text{ kg/m}^3$** saturation point. If the mass were higher, the repulsion would be insufficient to maintain the void, forcing the lattice to "reject" the excess mass through stellar winds prior to the final phase transition.
+
+## **📊 Summary of Forces**
+
+| Feature | **Gravitational Pull ($G$)** | **Vortical Repulsion ($F_{vr}$)** |
+| --- | --- | --- |
+| **Direction** | Inward (Radial) | **Outward (Topological)** |
+| **Source** | Lattice Suppression ($< 10^{82}$) | **Lattice Saturation ($X=1$)** |
+| **Goal** | Mass Convergence | **Vacuum Restoration** |
+| **Result** | Compression to $10^{-9}$ | **Formation of the Void** |
+
+---
+
+## **🚀 Scientific Conclusion**
+
+Vortical Repulsion is the **"Geometric Safety Valve"** of the universe. It proves that the lattice will always choose **Rotation over Destruction**. By generating $F_{vr}$, the black hole avoids the infinite density of a singularity and instead becomes a stable, perpetual vortical engine that preserves the structural integrity of the cosmic manifold.
+
+---
 
 ## 📉 Figure 2: Numerical Simulation of the Vortical Torus Structure
 

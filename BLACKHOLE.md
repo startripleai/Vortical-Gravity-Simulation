@@ -131,6 +131,8 @@ This simulation demonstrates the transition from a damped terrestrial baseline t
 > *   **Center ($r=0.5$):** Density = $0.0$, $P_t = 1.0$ (100% Recovery)
 > *   **Shell ($r=1.5$):** Density = $500.0$ (Peak), $P_t = 0.0$ (0% Flux)
 
+---
+
 ## 📊 Probabilistic Dynamics by Radius (Lattice Partitioning)
 
 The Vortical Black Hole is governed by the **Probability Invariance Identity** ($P_t^2 + P_{\theta}^2 = 1$). The following analysis explains how the spacetime lattice partitions its energy between **Temporal Flux ($P_t$)** and **Vortical Rotation ($P_{\theta}$)** across different radial zones.

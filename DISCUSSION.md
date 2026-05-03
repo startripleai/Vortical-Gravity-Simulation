@@ -83,6 +83,18 @@ When the mass exceeds the TOV limit, the lattice can no longer sustain the $X=1,
 
 **Conclusion:** A Black Hole is the "Restored" state of a Neutron Star. By transitioning into a vortex, the lattice sheds its $1,000$-fold linear stress, stabilizing the system at its natural saturation frequency and creating the central vacuum.
 
+---
+### 📝 Appendix: Technical Glossary
+
+#### **The TOV Limit (Tolman-Oppenheimer-Volkoff Limit)**
+In standard astrophysics, the **TOV Limit** represents the maximum mass (approx. 2.1–3.0 $M_{\odot}$) that a neutron star can support against gravitational collapse through neutron degeneracy pressure.
+
+**In the Vortical Gravity Framework:**
+The TOV Limit is reinterpreted as the **Lattice Surrender Point**. It is the specific threshold where the lattice can no longer sustain the **$1,000$-fold linear stress overload ($X \approx 1,000$)**. 
+*   **Before the Limit:** The lattice is "solidified" under extreme pressure, forcibly maintaining a density of $10^{17} \text{ kg/m}^3$ despite having a natural saturation point of $10^{14} \text{ kg/m}^3$.
+*   **Beyond the Limit:** The lattice undergoes a mandatory **Topological Phase Transition**. It sheds the linear burden by converting the $10^3$ energy gap into **Vortical Rotation**, effectively "liquefying" the energy into the stable, rotating **Vortical Torus**.
+
+
 
 ---
 

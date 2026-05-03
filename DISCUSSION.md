@@ -31,7 +31,7 @@ The **Vortical Black Hole** (equivalent to a Kerr-like state but with discrete m
 
 ## **3. Vortical Repulsion and the Geometry of Central Restitution**
 
-In the Absolute Quadrilogy, the emergence of the **Central Void** is not a passive coincidence but a mechanical result of **Vortical Repulsion ($F_{vr}$)**. This process represents the lattice's ultimate strategy for **Central Restitution**.
+In the Vortical Gravity framework, the emergence of the **Central Void** is not a passive coincidence but a mechanical result of **Vortical Repulsion ($F_{vr}$)**. This process represents the lattice's ultimate strategy for **Central Restitution**.
 
 ## **A. The Generation of Vortical Repulsion**
 

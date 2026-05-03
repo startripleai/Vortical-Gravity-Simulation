@@ -125,7 +125,7 @@ The formation of a **Vortical Black Hole** requires the system to reach a state 
 | **Stability Logic** | High mass stars are unstable. | Lattice requires **Quantized Angular Momentum**. |
 | **Outcome** | Schwarzschild/Kerr Singularity. | **Stabilized 3D Resonant Torus.** |
 
-**Conclusion:** The 10 $M_{\odot}$ limit is a "Safety Valve" of the discrete spacetime manifold. It ensures that stellar-origin black holes do not overload the local lattice, maintaining a structural equilibrium that prevents a runaway collapse and preserves the **Vortical Void**.
+**The 10 $M_{\odot}$ limit is a "Safety Valve"** of the discrete spacetime manifold. It ensures that stellar-origin black holes do not overload the local lattice, maintaining a structural equilibrium that prevents a runaway collapse and preserves the **Vortical Void**.
 
 
 ---

@@ -19,6 +19,8 @@ The **Vortical Black Hole** (equivalent to a Kerr-like state but with discrete m
 - **Formation of the Torus:** The repulsion displaces mass-energy into a **3D Resonant Torus**, protecting the center.
 - **The Result:** The singularity is replaced by the **Vortical Void**—a region of pure vacuum restitution where $P_t = 1.0$.
 
+---
+
 ## **📊 Comparative Analysis**
 
 | Feature | Static Black Hole (GR) | Vortical Black Hole (Torus) |
@@ -94,6 +96,8 @@ The TOV Limit is reinterpreted as the **Lattice Surrender Point**. It is the spe
 *   **Before the Limit:** The lattice is "solidified" under extreme pressure, forcibly maintaining a density of $10^{17} \text{ kg/m}^3$ despite having a natural saturation point of $10^{14} \text{ kg/m}^3$.
 *   **Beyond the Limit:** The lattice undergoes a mandatory **Topological Phase Transition**. It sheds the linear burden by converting the $10^3$ energy gap into **Vortical Rotation**, effectively "liquefying" the energy into the stable, rotating **Vortical Torus**.
 
+---
+
 ## **📑 Stellar Evolution: The 10 $M_{\odot}$ Limit and Lattice Resonance**
 
 Observationally, isolated black holes formed from stars with solar metallicity rarely exceed **10 Solar Masses ($M_{\odot}$)**. While standard astrophysics attributes this to radiative mass loss, the **Vortical Model** provides a deeper structural explanation based on **Lattice Angular Momentum Saturation**.
@@ -102,7 +106,7 @@ Observationally, isolated black holes formed from stars with solar metallicity r
 
 Solar metallicity (high concentration of heavy elements) creates a high "Geometric Opacity" within the stellar interior.
 
-- **Lattice Friction:** In the Absolute Quadrilogy, heavy elements represent complex entanglements in the lattice. These entanglements increase the friction between "Trapped Light" (mass) and the spacetime fabric.
+- **Lattice Friction:** In the Vortical Gravity framework, heavy elements represent complex entanglements in the lattice. These entanglements increase the friction between "Trapped Light" (mass) and the spacetime fabric.
 - **Pre-collapse Shedding:** During the final stages of a high-metallicity star, the lattice attempts to shed this "structural overload." This results in massive stellar winds, ensuring that only a specific amount of mass is available for the final phase transition.
 
 ## **2. The 10 $M_{\odot}$ Limit: The Resonant Ceiling**

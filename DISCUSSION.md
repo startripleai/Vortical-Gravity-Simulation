@@ -55,7 +55,7 @@ This mechanism replaces the catastrophic "Point of Infinite Density" (Singularit
 1. **Temporal Restoration:** Within the Void, time efficiency ($P_t$) jumps back to **1.0**, as there is no local inflation ($>10^{82}$) to suppress the temporal flux.
 2. **Energy Funneling:** This restored vacuum channel serves as the exit path for excess energy, providing the mechanical foundation for **Relativistic Jets**.
 
-## 4. The 1,000-fold Stress Gap: Neutron Star ($10^{17}$) vs. Black Hole ($10^{14}$)
+## **4. The 1,000-fold Stress Gap: Neutron Star ($$10^{17}$$) vs. Black Hole ($$10^{14}$$)**
 
 A fundamental question arises: *Why does a Neutron Star possess a higher density ($10^{17} \text{ kg/m}^3$) than the derived Lattice Saturation point ($10^{14} \text{ kg/m}^3$)?* The Absolute Quadrilogy resolves this through the lens of **Lattice Stress ($X$) Overload**.
 

@@ -94,6 +94,34 @@ The TOV Limit is reinterpreted as the **Lattice Surrender Point**. It is the spe
 *   **Before the Limit:** The lattice is "solidified" under extreme pressure, forcibly maintaining a density of $10^{17} \text{ kg/m}^3$ despite having a natural saturation point of $10^{14} \text{ kg/m}^3$.
 *   **Beyond the Limit:** The lattice undergoes a mandatory **Topological Phase Transition**. It sheds the linear burden by converting the $10^3$ energy gap into **Vortical Rotation**, effectively "liquefying" the energy into the stable, rotating **Vortical Torus**.
 
+## **📑 Stellar Evolution: The 10 $M_{\odot}$ Limit and Lattice Resonance**
+
+Observationally, isolated black holes formed from stars with solar metallicity rarely exceed **10 Solar Masses ($M_{\odot}$)**. While standard astrophysics attributes this to radiative mass loss, the **Vortical Model** provides a deeper structural explanation based on **Lattice Angular Momentum Saturation**.
+
+## **1. Metallicity as Lattice Entanglement**
+
+Solar metallicity (high concentration of heavy elements) creates a high "Geometric Opacity" within the stellar interior.
+
+- **Lattice Friction:** In the Absolute Quadrilogy, heavy elements represent complex entanglements in the lattice. These entanglements increase the friction between "Trapped Light" (mass) and the spacetime fabric.
+- **Pre-collapse Shedding:** During the final stages of a high-metallicity star, the lattice attempts to shed this "structural overload." This results in massive stellar winds, ensuring that only a specific amount of mass is available for the final phase transition.
+
+## **2. The 10 $M_{\odot}$ Limit: The Resonant Ceiling**
+
+The formation of a **Vortical Black Hole** requires the system to reach a state of **Topological Resonance**. For a stable 3D Torus to exist with a 1:1 Thickness-to-Void ratio, the total energy must not exceed a specific threshold.
+
+- **Vortical Capacity:** For solar-metallicity progenitors, the lattice can only support a **Vortical Repulsion ($F_{vr}$)** strong enough to stabilize a core up to ~10 $M_{\odot}$.
+- **Rejection of Excess Mass:** If the collapsing core attempts to exceed this limit, the resulting **Lattice Stress ($X$)** would surpass the $10^{82}$ baseline too early. The lattice effectively "rejects" the excess energy through enhanced mass-loss during the collapse to ensure the final product—the **Vortical Torus**—remains within the quantized bounds of stability.
+
+## **📊 Summary of the 10 $M_{\odot}$ Constraint**
+
+| Component | Standard Model (Radiative) | Vortical Model (Lattice Resonance) |
+| --- | --- | --- |
+| **Primary Cause** | Wind loss due to photon opacity. | **Lattice Shedding** to achieve 1:1 Resonance. |
+| **Limit Value** | ~10 $M_{\odot}$ (Empirical) | **~10 $M_{\odot}$ (Structural Ceiling)** |
+| **Stability Logic** | High mass stars are unstable. | Lattice requires **Quantized Angular Momentum**. |
+| **Outcome** | Schwarzschild/Kerr Singularity. | **Stabilized 3D Resonant Torus.** |
+
+**Conclusion:** The 10 $M_{\odot}$ limit is a "Safety Valve" of the discrete spacetime manifold. It ensures that stellar-origin black holes do not overload the local lattice, maintaining a structural equilibrium that prevents a runaway collapse and preserves the **Vortical Void**.
 
 
 ---

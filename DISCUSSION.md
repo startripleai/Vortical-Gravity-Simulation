@@ -125,9 +125,6 @@ The formation of a **Vortical Black Hole** requires the system to reach a state 
 
 **The 10 $M_{\odot}$ limit is a "Safety Valve"** of the discrete spacetime manifold. It ensures that stellar-origin black holes do not overload the local lattice, maintaining a structural equilibrium that prevents a runaway collapse and preserves the **Vortical Void**.
 
-
----
-
 ## **Conclusion**
 
 Rotation is not an optional feature of a black hole; it is the **Mechanical Engine** that resolves the singularity. By trading linear time ($P_t \to 0$) for spatial rotation ($P_{\theta} \to 1$), the lattice constructs a stable **Vortical Torus** that preserves the finite energy of the system while restoring the vacuum at its core.

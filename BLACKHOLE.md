@@ -31,7 +31,7 @@ Contrary to standard theory, the center of a black hole ($r < 1$) is a **Vortica
 
 ## **📑 Numerical Sync: Lattice Saturation and Critical Density**
 
-In the Absolute Quadrilogy, the transition from a collapsing star to a stabilized **Vortical Torus** is governed by the **Lattice Stress Identity ($X$)**.
+In the Vortical Gravity framework, the transition from a collapsing star to a stabilized **Vortical Torus** is governed by the **Lattice Stress Identity ($X$)**.
 
 ## **1. The $X=1$ Saturation Limit**
 

@@ -95,13 +95,9 @@ $F_{vr}$ is the governor of black hole scale.
 | **Goal** | Mass Convergence | **Vacuum Restoration** |
 | **Result** | Compression to $10^{-9}$ | **Formation of the Void** |
 
----
-
 ## **🚀 Scientific Conclusion**
 
 Vortical Repulsion is the **"Geometric Safety Valve"** of the universe. It proves that the lattice will always choose **Rotation over Destruction**. By generating $F_{vr}$, the black hole avoids the infinite density of a singularity and instead becomes a stable, perpetual vortical engine that preserves the structural integrity of the cosmic manifold.
-
----
 
 ## 📉 Figure 2: Numerical Simulation of the Vortical Torus Structure
 
@@ -130,8 +126,6 @@ This simulation demonstrates the transition from a damped terrestrial baseline t
 > **Numerical Verification (v1.2.1 Sync Check):**
 > *   **Center ($r=0.5$):** Density = $0.0$, $P_t = 1.0$ (100% Recovery)
 > *   **Shell ($r=1.5$):** Density = $500.0$ (Peak), $P_t = 0.0$ (0% Flux)
-
----
 
 ## 📊 Probabilistic Dynamics by Radius (Lattice Partitioning)
 

@@ -37,7 +37,7 @@ In the Vortical Gravity framework, the transition from a collapsing star to a st
 
 The lattice stress $X$ is the ratio of local energy loading to the fundamental capacity of the spacetime fabric. Saturation occurs when: $$X = \frac{\rho \cdot \eta}{\rho_{Planck}} = 1$$
 
-Given the **Cosmic Stiffness Constant ($\eta \approx 10^{82}$)** and the **Planck Density ($\rho_{Planck} \approx 10^{96} \text{ kg/m}^3$)**, we can derive the critical density ($\rho_{crit}$) at the Event Horizon:$$\rho_{crit} = \frac{\rho_{Planck}}{\eta} \approx \frac{10^{96}}{10^{82}} = 10^{14} \text{ kg/m}^3$$
+Given the **Cosmic Stiffness Constant ($\eta \approx 10^{82}$)** and the **Planck Density ($\rho_{Planck} \approx 10^{96} \text{ kg/m}^3$)**, we can derive the critical density ($\rho_{crit}$) at the Event Horizon: $$\rho_{crit} = \frac{\rho_{Planck}}{\eta} \approx \frac{10^{96}}{10^{82}} = 10^{14} \text{ kg/m}^3$$
 
 ## **2. Physical Implications of $10^{14} \text{ kg/m}^3$**
 

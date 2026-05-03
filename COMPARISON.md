@@ -24,8 +24,6 @@ During the simulation, you may observe the **yellow vertical line ($P_t$ indicat
 2. **Conversion of Degrees of Freedom:** At this threshold, the energy is "deciding" its partition. The linear inward velocity ($v_r$) must be fully converted into rotational velocity ($v_{\theta}$) to satisfy the $P_t^2 + P_{\theta}^2 = 1$ identity.
 3. **Vortical Repulsion ($F_{vr}$) Kick-in:** The "shaking" is the numerical manifestation of **Vortical Repulsion** pushing back against the gravitational pull. This equilibrium creates a **Resonant State** where the donut begins its perpetual spin, protecting the central vacuum.
 
----
-
 ## **3. Physical Conclusion: From Collapse to Resonance**
 
 The transition from the 50x larger star into the 25x compressed black hole is not a smooth descent but a **quantized impact**.

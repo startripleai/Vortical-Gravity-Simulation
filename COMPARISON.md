@@ -105,4 +105,4 @@ For solar-metallicity progenitors, the 10 $M_{\odot}$ limit ensures that the **L
 
 ## **3. The Scaling Identity**
 
-The relationship can be summarized by the **Vortical Stability Identity**:$$\text{Stability} \propto \frac{\text{Mass Volume Ratio}}{\text{Lattice Stiffness}} \approx \frac{10 \ M_{\odot} \ @ \ 10^{-9}}{10^{82}}$$ Any progenitor attempting to shove more mass into that same $10^{-9}$ scaled volume is forced by the lattice to shed its outer layers (stellar winds) until it hits the **10 $M_{\odot}$ Resonant Ceiling.**
+The relationship can be summarized by the **Vortical Stability Identity**: $$\text{Stability} \propto \frac{\text{Mass Volume Ratio}}{\text{Lattice Stiffness}} \approx \frac{10 \ M_{\odot} \ @ \ 10^{-9}}{10^{82}}$$ Any progenitor attempting to shove more mass into that same $10^{-9}$ scaled volume is forced by the lattice to shed its outer layers (stellar winds) until it hits the **10 $M_{\odot}$ Resonant Ceiling.**

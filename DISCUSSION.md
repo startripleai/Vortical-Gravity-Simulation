@@ -57,7 +57,7 @@ This mechanism replaces the catastrophic "Point of Infinite Density" (Singularit
 
 ## **4. The 1,000-fold Stress Gap: Neutron Star ($$10^{17}$$) vs. Black Hole ($$10^{14}$$)**
 
-A fundamental question arises: Why does a Neutron Star possess a higher density ($10^{17} \text{ kg/m}^3$) than the derived Lattice Saturation point ($10^{14} \text{ kg/m}^3$)? The Absolute Quadrilogy resolves this through the lens of **Lattice Stress ($X$) Overload**.
+A fundamental question arises: Why does a Neutron Star possess a higher density ($10^{17} \text{ kg/m}^3$) than the derived Lattice Saturation point ($10^{14} \text{ kg/m}^3$)? The Vortical Gravity framework resolves this through the lens of **Lattice Stress ($X$) Overload**.
 
 ### A. The Overloaded State of a Neutron Star ($X \approx 1,000$)
 In a Neutron Star, the lattice is pushed far beyond its linear equilibrium point ($X=1$).

@@ -85,7 +85,7 @@ Beyond this point, the lattice cannot compress further without violating the $10
 
 ---
 
-## **📄 Updated Section: The $10 \ M_{\odot}$ Limit and the $10^{-9}$ Geometric Constraint**
+## **📄 The $10 \ M_{\odot}$ Limit and the $10^{-9}$ Geometric Constraint**
 
 The **10 $M_{\odot}$ mass limit** and the **$10^{-9}$ compression ratio** are two sides of the same topological coin. Together, they define the **Operating Envelope** of the Vortical Engine.
 

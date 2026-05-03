@@ -29,6 +29,42 @@ The **Vortical Black Hole** (equivalent to a Kerr-like state but with discrete m
 | **Mechanical Stability** | Unstable (Divergent) | **Stable (Topological Equilibrium)** |
 | **Jet Potential** | None (No channel) | **High (Hollow Core Channel)** |
 
+## **3. Vortical Repulsion and the Geometry of Central Restitution**
+
+In the Absolute Quadrilogy, the emergence of the **Central Void** is not a passive coincidence but a mechanical result of **Vortical Repulsion ($F_{vr}$)**. This process represents the lattice's ultimate strategy for **Central Restitution**.
+
+## **A. The Generation of Vortical Repulsion**
+
+As light transitions from linear progression to intense vortical movement, it saturates the lattice's rotational degrees of freedom ($P_{\theta} \to 1$). This high-velocity resonance creates a non-Newtonian outward pressure—**Vortical Repulsion**.
+
+- **Mass Displacement:** $F_{vr}$ forcibly displaces all "Trapped Light" and mass-energy away from the center of rotation.
+- **Torus Stabilization:** The energy is condensed into a stable, 3D Resonant Torus, where the inward pull of gravity is perfectly balanced by the outward push of $F_{vr}$.
+
+## **B. The Logic of Central Restitution**
+
+By pushing all matter to the periphery, the vortex creates a region of **Central Restitution** at its core.
+
+- **Zero-Density Core:** Because mass is barred from the center by $F_{vr}$, the energy density ($\rho$) drops to zero.
+- **Suppression Reversal:** Near the mass-dense Torus, the lattice is structurally suppressed. However, within the protected core, all mass-induced stress vanishes.
+- **Ground State Recovery:** In this central channel, the lattice finally achieves **restoration**, returning to its pristine intrinsic baseline of **$\eta \approx 10^{82}$**.
+
+## **C. Physical Manifestation: The Anti-Singularity**
+
+This mechanism replaces the catastrophic "Point of Infinite Density" (Singularity) with a **Functional Vacuum Channel**.
+
+1. **Temporal Restoration:** Within the Void, time efficiency ($P_t$) jumps back to **1.0**, as there is no local inflation ($>10^{82}$) to suppress the temporal flux.
+2. **Energy Funneling:** This restored vacuum channel serves as the exit path for excess energy, providing the mechanical foundation for **Relativistic Jets**.
+
+---
+
+## **📊 Summary of Central Dynamics**
+
+| Region | Dynamics | Lattice State | Temporal Flux ($P_t$) |
+| --- | --- | --- | --- |
+| **External ($r > 2$)** | Infalling Flow | Suppressed ($< 10^{82}$) | Damped ($0.183 \to 0$) |
+| **Torus ($r = 1 \sim 2$)** | Saturated Rotation | Maximum Tension | Stalled ($0.0$) |
+| **Void ($r < 1$)** | **Central Restitution** | **Restored ($\eta = 10^{82}$)** | **Recovered ($1.0$)** |
+
 ## **Conclusion**
 
 Rotation is not an optional feature of a black hole; it is the **Mechanical Engine** that resolves the singularity. By trading linear time ($P_t \to 0$) for spatial rotation ($P_{\theta} \to 1$), the lattice constructs a stable **Vortical Torus** that preserves the finite energy of the system while restoring the vacuum at its core.

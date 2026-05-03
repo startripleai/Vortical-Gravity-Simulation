@@ -14,8 +14,6 @@ The shift of the $P_t = 0$ (Time Stasis) point between the two models represents
 - **In v1.2.1:** The plot highlights the **volume** where mass is stored ($r=1$ to $2$), with $P_t$ dipping to zero across the entire shell thickness.
 - **In v2.6:** The simulator focuses on the **threshold transition**. $P_t$ begins its steep drop at $r=2$ (Earth baseline $0.183$) and reaches its absolute minimum exactly at the inner boundary (**$r=1.0$**).
 
----
-
 ## **2. The "Critical Stalling" Phenomenon at $r=1$**
 
 During the simulation, you may observe the **yellow vertical line ($P_t$ indicator)** stalling or oscillating slightly near the $r=1$ mark before the **Vortical Rotation** dominates. This is a deliberate physical representation of the **Lattice Phase Transition**.

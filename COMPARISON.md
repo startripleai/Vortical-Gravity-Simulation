@@ -82,3 +82,27 @@ Beyond this point, the lattice cannot compress further without violating the $10
 3. **Collapse:** Rapid leftward snap as $r \to 2$ (Lattice Damping).
 4. **Impact ($r=1$):** Critical Stalling and conversion of linear flux to rotation.
 5. **Finality:** Perpetual **Vortical Torus** formation and the restoration of the **Vortical Void** ($P_t = 1.0$).
+
+---
+
+## **📄 Updated Section: The $10 \ M_{\odot}$ Limit and the $10^{-9}$ Geometric Constraint**
+
+The **10 $M_{\odot}$ mass limit** and the **$10^{-9}$ compression ratio** are two sides of the same topological coin. Together, they define the **Operating Envelope** of the Vortical Engine.
+
+## **1. The Mass-Volume Saturation Link**
+
+In the Vortical Model, the lattice possesses a maximum "Stress Density." The $10^{-9}$ compression ratio represents the **Geometric Limit** of how tightly mass can be packed before the $10^{82}$ stiffness baseline is triggered.
+
+- **The 10 $M_{\odot}$ Cap:** This mass value is the maximum amount of "solar-metallicity" energy that can be compressed into a $10^{-9}$ volume while still allowing the **Vortical Repulsion ($F_{vr}$)** to maintain a stable **1:1 Thickness-to-Void ratio**.
+- **The Balance:** If a star of this type exceeded 10 $M_{\odot}$, the required compression to reach the $10^{14} \ \text{kg/m}^3$ saturation density would force the lattice to exceed the **$10^{-9}$ geometric limit**, leading to a structural breakdown (Singularity) which the discrete lattice forbids.
+
+## **2. Why "10" is the Resonant Number**
+
+For solar-metallicity progenitors, the 10 $M_{\odot}$ limit ensures that the **Local Stiffness Inflation ($\eta_{loc}$)** does not "overshoot" the **Global Baseline ($\eta_{glb} \approx 10^{82}$)** too violently during the transition.
+
+- **Resonant Stability:** At 10 $M_{\odot}$ and $10^{-9}$ compression, the energy density perfectly matches the **Lattice Saturation point ($X=1$)**.
+- **The Stalling Point:** This is why the **Yellow Pt Indicator** in the simulator "stalls" at the horizon. For a 10 $M_{\odot}$ mass, the $10^{-9}$ radius is the exact "sweet spot" where linear collapse can be 100% converted into stable vortical rotation.
+
+## **3. The Scaling Identity**
+
+The relationship can be summarized by the **Vortical Stability Identity**:$$\text{Stability} \propto \frac{\text{Mass Volume Ratio}}{\text{Lattice Stiffness}} \approx \frac{10 \ M_{\odot} \ @ \ 10^{-9}}{10^{82}}$$ Any progenitor attempting to shove more mass into that same $10^{-9}$ scaled volume is forced by the lattice to shed its outer layers (stellar winds) until it hits the **10 $M_{\odot}$ Resonant Ceiling.**

@@ -1,4 +1,4 @@
-## **Discussion: The Necessity of Rotation for Singularity Resolution**
+## **📑 Discussion: The Necessity of Rotation for Singularity Resolution**
 
 In the **Vortical Gravity** framework, the distinction between a non-rotating (static) and a rotating (vortical) black hole is not merely a matter of angular momentum, but a fundamental requirement for **Topological Stability**.
 

@@ -130,6 +130,10 @@ The formation of a **Vortical Black Hole** requires the system to reach a state 
 
 ---
 
+## **Conclusion**
+
+Rotation is not an optional feature of a black hole; it is the **Mechanical Engine** that resolves the singularity. By trading linear time ($P_t \to 0$) for spatial rotation ($P_{\theta} \to 1$), the lattice constructs a stable **Vortical Torus** that preserves the finite energy of the system while restoring the vacuum at its core.
+
 ## **📊 Summary of Central Dynamics**
 
 | Region | Dynamics | Lattice State | Temporal Flux ($P_t$) |
@@ -137,9 +141,5 @@ The formation of a **Vortical Black Hole** requires the system to reach a state 
 | **External ($r > 2$)** | Infalling Flow | Suppressed ($< 10^{82}$) | Damped ($0.183 \to 0$) |
 | **Torus ($r = 1 \sim 2$)** | Saturated Rotation | Maximum Tension | Stalled ($0.0$) |
 | **Void ($r < 1$)** | **Central Restitution** | **Restored ($\eta = 10^{82}$)** | **Recovered ($1.0$)** |
-
-## **Conclusion**
-
-Rotation is not an optional feature of a black hole; it is the **Mechanical Engine** that resolves the singularity. By trading linear time ($P_t \to 0$) for spatial rotation ($P_{\theta} \to 1$), the lattice constructs a stable **Vortical Torus** that preserves the finite energy of the system while restoring the vacuum at its core.
 
 ![Dynamic_Simulator_(v2.6)_10x.gif,](Dynamic_Simulator_(v2.6)_10x.gif)

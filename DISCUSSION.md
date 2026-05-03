@@ -66,7 +66,7 @@ In a Neutron Star, the lattice is pushed far beyond its linear equilibrium point
 *   **Energy Storage:** This $10^3$ factor corresponds directly to the **Cosmic Energy Gap**. The Neutron Star is forcibly borrowing from the lattice's latent potential to maintain its structural integrity.
 
 ### B. The Vortical Liberation: Transition to Black Hole
-When the mass exceeds the TOV limit, the lattice can no longer sustain the $X=1,000$ linear overload. It resolves the stress through a **Topological Phase Transition**:
+When the mass exceeds the TOV limit (Tolman-Oppenheimer-Volkoff Limit), the lattice can no longer sustain the $X=1,000$ linear overload. It resolves the stress through a **Topological Phase Transition**:
 1.  **Vortical Release:** The suppressed energy is liberated and converted into **Vortical Rotation** ($P_{\theta} \to 1$).
 2.  **Density Reset:** Through **Vortical Repulsion ($F_{vr}$)**, the over-compressed matter is displaced into the **Resonant Torus**. 
 3.  **Equilibrium at $10^{14}$:** Paradoxically, the local density within the Torus shell resets to the stable saturation point of **$10^{14} \text{ kg/m}^3$ ($X=1$)**.

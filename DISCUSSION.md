@@ -19,8 +19,6 @@ The **Vortical Black Hole** (equivalent to a Kerr-like state but with discrete m
 - **Formation of the Torus:** The repulsion displaces mass-energy into a **3D Resonant Torus**, protecting the center.
 - **The Result:** The singularity is replaced by the **Vortical Void**—a region of pure vacuum restitution where $P_t = 1.0$.
 
----
-
 ## **📊 Comparative Analysis**
 
 | Feature | Static Black Hole (GR) | Vortical Black Hole (Torus) |

@@ -34,6 +34,7 @@ The **Lattice Stress ($X$)** acts as a structural pressure gauge, determining th
 
 The relationship between baryonic gravity and the discrete manifold is governed by the **Vortical Coupling Constant ($k$):**
 $$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$
+
 This constant proves that $G_0$ is not a fundamental building block, but a **Secondary Efficiency** derived from the Global Stiffness ($\eta$). 
 
 **Comparison with Stress ($X$):**

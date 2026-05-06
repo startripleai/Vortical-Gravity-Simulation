@@ -30,7 +30,7 @@ The **Lattice Stress ($X$)** acts as a structural pressure gauge, determining th
 
 ---
 
-### **📄 The Vortical Coupling Identity**
+## **📄 The Vortical Coupling Identity**
 
 The relationship between baryonic gravity and the discrete manifold is governed by the **Vortical Coupling Constant ($k$):**
 $$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$

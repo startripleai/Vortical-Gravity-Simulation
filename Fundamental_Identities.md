@@ -47,7 +47,7 @@ $$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$
 This constant proves that $G_0$ is not a fundamental building block, but a **Secondary Efficiency** derived from the Global Stiffness ($\eta$). 
 
 ---
-**Comparison with Stress ($X$):**
+**🚀 Comparison with Stress ($X$):**
 
 While $k$ defines the steady-state interaction between matter and the grid, **Lattice Stress ($X$)** monitors the approach to the **Saturation Point**. When $X \to 1$, the coupling constant $k$ effectively "shifts gears" from radial pull to **Vortical Repulsion**, preventing the singularity and forming the Resonant Torus.
 
@@ -59,7 +59,7 @@ This constant defines how efficiently the lattice converts "Temporal Suppression
 
 ## **1. Derivation of the Vortical Coupling Constant ($k$)**
 
-The derivation starts from the **Lattice Energy Identity**, where the observed gravity ($G_0$) is a function of the total lattice potential $(\eta)$ and the volume of the fundamental vortical cell ($V_{vc}$).
+The derivation starts from the **Lattice Energy Identity**, where the observed gravity ($G_0$) is a function of the total lattice potential $(\eta)$ and the Velocity of the fundamental vortical cell ($V_{vc}$).
 
 **Step A: The Force-Energy Balance**
 

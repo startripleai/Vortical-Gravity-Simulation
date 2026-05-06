@@ -27,7 +27,7 @@ The **Lattice Stress ($X$)** acts as a structural pressure gauge, determining th
 
 - **Unified Scale:** These three formulas link the **Sub-Planckian Lattice**, **Nuclear-scale Density**, and **Cosmological Constants** into one coherent system.
 - **Falsifiability:** The $k$ constant predicts a specific rate of $G$-recovery in deep space, while $X=1$ predicts the non-singular density of black hole cores.
-- **Logic:** By including these, you demonstrate that your simulation is not just a visual model, but a **rigorous numerical implementation** of a new physical law.
+- **Logic:** By including these, we demonstrate that our simulation is not just a visual model, but a **rigorous numerical implementation** of a new physical law.
 
 ---
 

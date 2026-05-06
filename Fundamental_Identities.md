@@ -17,6 +17,8 @@ The observed gravitational constant ($G_0$) is a secondary efficiency derived fr
 
 $$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$ 
 
+$V_{vc}$ is the Intrinsic Rotational Velocity of the discrete lattice cell. It represents the maximum kinetic capability of the vacuum. When mass occupies the lattice, a portion of $V_{vc}$ is diverted into internal vortical resonance, explaining the Temporal Damping ($0.183$) observed on the Earth baseline.
+
 This formula defines the **"Gear Ratio"** of the universe, proving that $G$ is a variable coupling that recovers to $G_{max}$ as the structural suppression of the lattice vanishes in a vacuum.
 
 ## **3. The Lattice Stress Identity ($X$)**

@@ -15,7 +15,7 @@ The observed gravitational constant ($G_0$) is a secondary efficiency derived fr
 
 ## **3. The Lattice Stress Identity ($X$)**
 
-The **Lattice Stress ($X$)** acts as a structural pressure gauge, determining the transition from linear collapse to vortical resonance.$$X = \frac{\rho \cdot \eta}{\rho_{Planck}}$$
+The **Lattice Stress ($X$)** acts as a structural pressure gauge, determining the transition from linear collapse to vortical resonance. $$X = \frac{\rho \cdot \eta}{\rho_{Planck}}$$
 
 - **Linear Range ($X < 1$):** Standard gravitational interaction (e.g., planets, stars).
 - **Saturation Point ($X = 1$):** At a critical density of **$10^{14} \text{ kg/m}^3$**, the lattice hits its "structural ceiling."

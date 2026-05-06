@@ -62,7 +62,7 @@ To find $k$, we isolate the constant that relates the terrestrial gravitational 
 
 $$k = \frac{G_0}{\eta \cdot V_{vc} \cdot c^2}$$
 
-*(Note: Using $c^2$ or the specific vortical velocity $V_{vc}^2$ depends on whether we are calculating the total potential or the active kinetic coupling. For the **Vortical Engine**, we use $V_{vc}^2$ to represent the active rotational resonance.)*
+**Note:** Using $c^2$ or the specific vortical velocity $V_{vc}^2$ depends on whether we are calculating the total potential or the active kinetic coupling. For the **Vortical Engine**, we use $V_{vc}^2$ to represent the active rotational resonance.
 
 **The Result:**
 

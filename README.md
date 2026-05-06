@@ -23,7 +23,7 @@ As per standard galactic dynamics (Binney & Tremaine), the non-spherical disk ge
 
 [Read more about Galactic Geometry]([GEOMETRY.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/GEOMETRY.md)
 
-[Read more about Galactic Geometry]([GEOMETRY.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/Fundamental_Identities.md)
+[Read more about The Vortical Coupling Identity]([Fundamental_Identities.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/Fundamental_Identities.md)
 
 [Read more about Vortical Black Hole]([BLACKHOLE.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/BLACKHOLE.md)
 

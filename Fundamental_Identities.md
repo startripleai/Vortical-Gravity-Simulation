@@ -113,7 +113,9 @@ The fundamental unit of spacetime is the **Vortical Cell**, where energy travels
 
 ## **The Vector Identity:**
 
-$$c^2 = V_{linear}^2 + V_{vortical}^2$$ At the point of **Optimal Resonance** (the ground state of baryonic matter), the energy is partitioned equally between the two degrees of freedom. This occurs at a **$45^\circ$ phase angle ($\theta$)**.
+$$c^2 = V_{linear}^2 + V_{vortical}^2$$ 
+
+At the point of **Optimal Resonance** (the ground state of baryonic matter), the energy is partitioned equally between the two degrees of freedom. This occurs at a **$45^\circ$ phase angle ($\theta$)**.
 
 ## **2. Derivation of $V_{vc} = 0.707c$**
 
@@ -122,7 +124,11 @@ When the lattice reaches the $45^\circ$ resonance:
 1. **Angle ($\theta$):** $45^\circ$
 2. **$\sin(45^\circ) = \cos(45^\circ) = \frac{1}{\sqrt{2}} \approx 0.707$**
 
-Thus, the **Intrinsic Vortical Velocity ($V_{vc}$)** is:$$V_{vc} = c \cdot \sin(45^\circ) = \frac{c}{\sqrt{2}} \approx 0.707c$$ This value represents the **Saturated Rotational Speed** of a lattice node. It is the "engine speed" required to sustain a stable standing wave (Mass).
+Thus, the **Intrinsic Vortical Velocity ($V_{vc}$)** is:
+
+$$V_{vc} = c \cdot \sin(45^\circ) = \frac{c}{\sqrt{2}} \approx 0.707c$$ 
+
+This value represents the **Saturated Rotational Speed** of a lattice node. It is the "engine speed" required to sustain a stable standing wave (Mass).
 
 ## **3. Synchronization with the 18.3% Temporal Flux ($P_t = 0.183$)**
 
@@ -130,7 +136,11 @@ The $0.183$ value observed on the Earth-baseline is the **Residual Linear Effici
 
 ## **The Probability Sync:**
 
-According to the **Probability Invariance Identity**:$$P_t^2 + P_{\theta}^2 = 1$$ On Earth, the "Mass-Energy" component is the square of the $45^\circ$ resonance efficiency modified by the lattice's **Stiffness Damping ($\eta_{damping}$)**.
+According to the **Probability Invariance Identity**:
+
+$$P_t^2 + P_{\theta}^2 = 1$$ 
+
+On Earth, the "Mass-Energy" component is the square of the $45^\circ$ resonance efficiency modified by the lattice's **Stiffness Damping ($\eta_{damping}$)**.
 
 - **Ideal Resonance ($P_{\theta}^2$):** $\sin^2(45^\circ) = 0.5$
 - **Observed Mass-Energy Ratio ($P_{\theta}^2$):** $\approx 0.817$ (81.7%)

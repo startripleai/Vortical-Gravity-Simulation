@@ -11,7 +11,7 @@ The total computational capacity of a lattice node is conserved. Any increase in
 
 ## **2. The Vortical Coupling Constant ($k$)**
 
-The observed gravitational constant ($G_0$) is a secondary efficiency derived from the global stiffness ($\eta$) and the characteristic velocity of the vortical cell ($V_{vc}$).$$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$ This formula defines the **"Gear Ratio"** of the universe, proving that $G$ is a variable coupling that recovers to $G_{max}$ as the structural suppression of the lattice vanishes in a vacuum.
+The observed gravitational constant ($G_0$) is a secondary efficiency derived from the global stiffness ($\eta$) and the characteristic velocity of the vortical cell ($V_{vc}$). $$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$ This formula defines the **"Gear Ratio"** of the universe, proving that $G$ is a variable coupling that recovers to $G_{max}$ as the structural suppression of the lattice vanishes in a vacuum.
 
 ## **3. The Lattice Stress Identity ($X$)**
 

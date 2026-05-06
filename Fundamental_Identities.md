@@ -31,7 +31,7 @@ $$X = \frac{\rho \cdot \eta}{\rho_{Planck}}$$
 
 ---
 
-  ## **🚀 Theoretical Impact**
+  ## **🚀 Theoretical Conclusion**
 
 - **Unified Scale:** These three formulas link the **Sub-Planckian Lattice**, **Nuclear-scale Density**, and **Cosmological Constants** into one coherent system.
 - **Falsifiability:** The $k$ constant predicts a specific rate of $G$-recovery in deep space, while $X=1$ predicts the non-singular density of black hole cores.

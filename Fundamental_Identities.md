@@ -85,4 +85,5 @@ While $k$ and $X$ both involve lattice parameters, they describe different aspec
 | **Scale** | **Global:** Constant throughout the lattice. | **Local:** Varies with mass density ($\rho$). |
 | **At Black Hole** | Remains invariant (The rule of coupling). | Reaches **$X=1$** (Triggering the Torus). |
 
-- **Logic:** $k$ is the **"Gear Ratio"** of the universe—it tells the lattice how much gravity to produce for a given amount of mass. $X$ is the **"Pressure Gauge"**—it tells the lattice when the mass is too heavy to handle linearly, mandating a vortex.
+- **$k$** is the **"Gear Ratio"** of the universe—it tells the lattice how much gravity to produce for a given amount of mass.
+- **$X$** is the **"Pressure Gauge"**—it tells the lattice when the mass is too heavy to handle linearly, mandating a vortex.

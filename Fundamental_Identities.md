@@ -54,11 +54,15 @@ In the Vortical Model, the gravitational force emerges from the restorative pres
 
 **Step B: The Identity Equation**
 
-$$G_0 = k \cdot (\eta \cdot V_{vc} \cdot c^2)$$ To find $k$, we isolate the constant that relates the terrestrial gravitational output ($G_0$) to the intrinsic lattice energy density.
+$$G_0 = k \cdot (\eta \cdot V_{vc} \cdot c^2)$$ 
+
+To find $k$, we isolate the constant that relates the terrestrial gravitational output ($G_0$) to the intrinsic lattice energy density.
 
 **Step C: Final Formulation**
 
-$$k = \frac{G_0}{\eta \cdot V_{vc} \cdot c^2}$$ *(Note: Using $c^2$ or the specific vortical velocity $V_{vc}^2$ depends on whether we are calculating the total potential or the active kinetic coupling. For the **Vortical Engine**, we use $V_{vc}^2$ to represent the active rotational resonance.)*
+$$k = \frac{G_0}{\eta \cdot V_{vc} \cdot c^2}$$
+
+*(Note: Using $c^2$ or the specific vortical velocity $V_{vc}^2$ depends on whether we are calculating the total potential or the active kinetic coupling. For the **Vortical Engine**, we use $V_{vc}^2$ to represent the active rotational resonance.)*
 
 **The Result:**
 

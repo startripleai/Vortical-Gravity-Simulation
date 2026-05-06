@@ -48,13 +48,17 @@ This constant defines how efficiently the lattice converts "Temporal Suppression
 
 The derivation starts from the **Lattice Energy Identity**, where the observed gravity ($G_0$) is a function of the total lattice potential $(\eta)$ and the volume of the fundamental vortical cell ($V_{vc}$).
 
-**Step A: The Force-Energy Balance**In the Vortical Model, the gravitational force emerges from the restorative pressure of the lattice. The energy density of the lattice is governed by its stiffness ($\eta$) and the characteristic velocity of the vortical cell ($v$).
+**Step A: The Force-Energy Balance**
+In the Vortical Model, the gravitational force emerges from the restorative pressure of the lattice. The energy density of the lattice is governed by its stiffness ($\eta$) and the characteristic velocity of the vortical cell ($v$).
 
-**Step B: The Identity Equation**$$G_0 = k \cdot (\eta \cdot V_{vc} \cdot c^2)$$ To find $k$, we isolate the constant that relates the terrestrial gravitational output ($G_0$) to the intrinsic lattice energy density.
+**Step B: The Identity Equation**
+$$G_0 = k \cdot (\eta \cdot V_{vc} \cdot c^2)$$ To find $k$, we isolate the constant that relates the terrestrial gravitational output ($G_0$) to the intrinsic lattice energy density.
 
-**Step C: Final Formulation**$$k = \frac{G_0}{\eta \cdot V_{vc} \cdot c^2}$$ *(Note: Using $c^2$ or the specific vortical velocity $V_{vc}^2$ depends on whether we are calculating the total potential or the active kinetic coupling. For the **Vortical Engine**, we use $V_{vc}^2$ to represent the active rotational resonance.)*
+**Step C: Final Formulation**
+$$k = \frac{G_0}{\eta \cdot V_{vc} \cdot c^2}$$ *(Note: Using $c^2$ or the specific vortical velocity $V_{vc}^2$ depends on whether we are calculating the total potential or the active kinetic coupling. For the **Vortical Engine**, we use $V_{vc}^2$ to represent the active rotational resonance.)*
 
-**The Result:**$$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$
+**The Result:**$$
+k = \frac{G_0}{\eta \cdot V_{vc}^2}$$
 
 - **$G_0$:** The damped gravitational constant measured on Earth.
 - **$\eta$:** The cosmic lattice stiffness ($\approx 10^{82}$).
@@ -72,4 +76,5 @@ While $k$ and $X$ both involve lattice parameters, they describe different aspec
 | **Function** | Defines the **Efficiency** of force transmission. | Defines the **Threshold** of phase transition. |
 | **Scale** | **Global:** Constant throughout the lattice. | **Local:** Varies with mass density ($\rho$). |
 | **At Black Hole** | Remains invariant (The rule of coupling). | Reaches **$X=1$** (Triggering the Torus). |
+
 - **Logic:** $k$ is the **"Gear Ratio"** of the universe—it tells the lattice how much gravity to produce for a given amount of mass. $X$ is the **"Pressure Gauge"**—it tells the lattice when the mass is too heavy to handle linearly, mandating a vortex.

@@ -4,7 +4,7 @@ To resolve the discrepancies of General Relativity, the **Vortical Gravity Simul
 
 ## **1. The Probability Invariance Identity**
 
-The total computational capacity of a lattice node is conserved. Any increase in vortical rotation ($P_{\theta}$) directly suppresses the linear temporal flux ($P_t$).$$P_t^2 + P_{\theta}^2 = 1$$
+The total computational capacity of a lattice node is conserved. Any increase in vortical rotation ($P_{\theta}$) directly suppresses the linear temporal flux ($P_t$). $$P_t^2 + P_{\theta}^2 = 1$$
 
 - **Earth Baseline:** $P_t = 0.183$ (18.3% Time) $\rightarrow P_{\theta}^2 = 0.817$ (81.7% Mass-Energy).
 - **Horizon Saturation:** $P_t = 0$ $\rightarrow P_{\theta} = 1.0$ (100% Mass-Energy).

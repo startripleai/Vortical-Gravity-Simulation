@@ -59,7 +59,7 @@ This constant defines how efficiently the lattice converts "Temporal Suppression
 
 ## **1. Derivation of the Vortical Coupling Constant ($k$)**
 
-The derivation starts from the **Lattice Energy Identity**, where the observed gravity ($G_0$) is a function of the total lattice potential $(\eta)$ and the Velocity of the fundamental vortical cell ($V_{vc}$).
+The derivation starts from the **Lattice Energy Identity**, where the observed gravity ($G_0$) is a function of the total lattice potential $(\eta)$ and the velocity of the fundamental vortical cell ($V_{vc}$).
 
 **Step A: The Force-Energy Balance**
 

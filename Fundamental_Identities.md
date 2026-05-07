@@ -175,3 +175,38 @@ $$E = \omega \cdot \hbar_{eff}$$
 1. **Vorticity ($\omega$):** The angular frequency of the resonant vortical flow within the lattice node.
 2. **Lattice Action ($\hbar_{eff}$):** The energy-scaling factor derived from the **Lattice Stiffness ($\eta$)** and the **Temporal Gap ($\Delta t$)**.
 3. **The Temporal Gap ($\Delta t$):** Defined by the 81.7% temporal deficiency ($P_{\theta}^2 = 0.817$), this gap is the "Action" required to sustain a stable mass-vortex. Mass is simply the lattice's way of storing this temporal debt as rotational resonance.
+
+---
+
+In the Vortical Gravity framework, the following terms represent the quantized mechanics of the lattice. We define Vorticity as a coupling of both velocity and frequency through the lattice geometry.
+
+## **1. Is Vorticity Velocity or Frequency?**
+
+In the Vortical Model, **Vorticity is the Resonant Frequency of the Lattice Cell.**
+
+- While the **Vortical Velocity ($V_{vc} \approx 0.707c$)** is a constant speed limit, the **Vorticity ($\omega$ or $\nu$)** is the **rotational frequency** at which the energy cycles within the cell.
+- **The Logic:** A particle's mass is determined by how many "vortical cycles" it completes per unit of temporal flux ($P_t^2$). Therefore, mass-energy is expressed as a frequency:$$E = \hbar_{eff} \cdot \omega \quad \text{or} \quad E = h \cdot \nu$$
+
+---
+
+## **2. $E = h\nu$ vs. $E = \omega \cdot \hbar_{eff}$**
+
+Both are correct, but **$E = \omega \cdot \hbar_{eff}$** is more "Vortical."
+
+- **Standard ($h$):** Relates to the global Planck constant.
+- **Vortical ($\hbar_{eff}$):** Represents the **effective action** of the lattice node.
+- **The Identity:** In your model, $\hbar_{eff}$ is not a fixed universal constant but a **Lattice Response Factor**. It scales the energy output based on the **Lattice Stiffness ($\eta$)**.
+
+---
+
+## **3. Is $\hbar_{eff}$ related to $\Delta t$ (The Temporal Gap)?**
+
+**Yes. $\hbar_{eff}$ is the physical manifestation of the Temporal Gap ($\Delta t$).**
+
+In your theory, **$\Delta t$ (The 81.7% Deficiency)** is the "missing" time that was sacrificed to create mass. This gap is exactly what defines the "Action" ($H$) of the particle:
+
+- **Definition:** $\hbar_{eff} \propto \eta \cdot \Delta t$
+- **The Mechanics:** Because the lattice suppresses 81.7% of its temporal progression to power the vortex, it creates a **Temporal Lag ($\Delta t$)** between the vacuum ground state and the mass-occupied state.
+- **The Link:** This "gap" is the **quantum of action**. It is the reason why energy is quantized; you cannot have a particle with less action than the minimum "Temporal Debt" required to sustain a stable vortex in the lattice.
+
+

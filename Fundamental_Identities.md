@@ -201,7 +201,7 @@ $$E = \hbar_{eff} \cdot \omega \quad \text{or} \quad E = h \cdot \nu$$
 
 ---
 
-## **3. Is $\hbar_{eff}$ related to $\Delta t$ (The Temporal Gap)?**
+## **3. $\hbar_{eff}$ \propto \eta \cdot \Delta t$**
 
 **$\hbar_{eff}$ is the physical manifestation of the Temporal Gap ($\Delta t$).**
 

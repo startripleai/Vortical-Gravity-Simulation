@@ -191,7 +191,7 @@ $$E = \hbar_{eff} \cdot \omega \quad \text{or} \quad E = h \cdot \nu$$
 
 ---
 
-## **2. $E = \omega \cdot \hbar_{eff}$ is "Vortical."**
+## **2. $E = \omega \cdot \hbar_{eff}$ is Vortical.**
 
 
 

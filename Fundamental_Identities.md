@@ -164,3 +164,14 @@ The temporal amplitude is $P_t = \sqrt{0.183} \approx 0.427$. This clarifies tha
 ## **🚀 Theoretical Conclusion**
 
 The $45^\circ$ phase angle is the **"Golden Angle"** of the universe. It is the only orientation where the lattice can support **Trapped Light** while still allowing for a measurable flow of time ($P_t$). As we approach a Black Hole ($r \to 2$), this angle shifts toward $90^\circ$, causing $V_{linear} \to 0$ ($P_t \to 0$) and $V_{vortical} \to c$ ($P_{\theta} \to 1$), leading to the **Vortical Phase Transition**.
+
+---
+
+### **The Energy-Temporal Identity**
+In the Vortical Universe, the relationship between mass, energy, and time is unified through the **Lattice Action ($\hbar_{eff}$)**:
+
+$$E = \omega \cdot \hbar_{eff}$$
+
+1. **Vorticity ($\omega$):** The angular frequency of the resonant vortical flow within the lattice node.
+2. **Lattice Action ($\hbar_{eff}$):** The energy-scaling factor derived from the **Lattice Stiffness ($\eta$)** and the **Temporal Gap ($\Delta t$)**.
+3. **The Temporal Gap ($\Delta t$):** Defined by the 81.7% temporal deficiency ($P_{\theta}^2 = 0.817$), this gap is the "Action" required to sustain a stable mass-vortex. Mass is simply the lattice's way of storing this temporal debt as rotational resonance.

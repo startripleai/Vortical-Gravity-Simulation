@@ -1,4 +1,4 @@
-## **📄 Mathematical Proofs & Fundamental Identities**
+## **📄 Fundamental Identities**
 
 To resolve the discrepancies of General Relativity, the **Vortical Gravity Simulation** is built upon three primary mathematical identities that govern the interaction between the discrete lattice and mass-energy.
 

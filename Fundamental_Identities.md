@@ -168,7 +168,7 @@ The $45^\circ$ phase angle is the **"Golden Angle"** of the universe. It is the 
 
 ---
 
-# **📄 The Energy-Temporal Identity**
+## **📄 The Energy-Temporal Identity**
 In the Vortical Universe, the relationship between mass, energy, and time is unified through the **Lattice Action ($\hbar_{eff}$)**:
 
 $$E = \omega \cdot \hbar_{eff}$$

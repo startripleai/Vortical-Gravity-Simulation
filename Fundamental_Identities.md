@@ -148,6 +148,8 @@ On Earth, the "Mass-Energy" component is the square of the $45^\circ$ resonance 
 - **Observed Mass-Energy Ratio ($P_{\theta}^2$):** $\approx 0.817$ (81.7%)
 - **Resulting Temporal Flux ($P_t$):** $\sqrt{1 - 0.817} \approx 0.427 \rightarrow$ damped to **0.183** by terrestrial lattice suppression.
 
+The temporal amplitude is $P_t = \sqrt{0.183} \approx 0.427$. This clarifies that approximately 43% of the potential time flow of the lattice is alive as amplitude, but the actual energy efficiency manifested is 18.3%.
+
 ## **📊 Summary of Numerical Sync**
 
 | Parameter | Formula / Value | Physical Significance |

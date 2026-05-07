@@ -188,7 +188,7 @@ In the Vortical Model, **Vorticity is the Resonant Frequency of the Lattice Cell
 - While the **Vortical Velocity ($V_{vc} \approx 0.707c$)** is a constant speed limit, the **Vorticity ($\omega$ or $\nu$)** is the **rotational frequency** at which the energy cycles within the cell.
 - A particle's mass is determined by how many "vortical cycles" it completes per unit of temporal flux ($P_t^2$). Therefore, mass-energy is expressed as a frequency:
 
-$$E = \hbar_{eff} \cdot \omega \quad \text{or} \quad E = h \cdot \nu$$
+$$E = \hbar_{eff} \cdot \omega \quad
 
 ---
 

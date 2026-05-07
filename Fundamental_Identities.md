@@ -193,7 +193,7 @@ $$E = \hbar_{eff} \cdot \omega \quad \text{or} \quad E = h \cdot \nu$$
 
 ## **2. $E = h\nu$ vs. $E = \omega \cdot \hbar_{eff}$**
 
-Both are correct, but **$E = \omega \cdot \hbar_{eff}$** is more "Vortical."
+"**$E = \omega \cdot \hbar_{eff}$** is more "Vortical."
 
 - **Standard ($h$):** Relates to the global Planck constant.
 - **Vortical ($\hbar_{eff}$):** Represents the **effective action** of the lattice node.

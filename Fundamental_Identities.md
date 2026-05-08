@@ -212,4 +212,40 @@ In the theory, **$\Delta t$ (The 81.7% Deficiency)** is the "missing" time that 
 - **The Mechanics:** Because the lattice suppresses 81.7% of its temporal progression to power the vortex, it creates a **Temporal Lag ($\Delta t$)** between the vacuum ground state and the mass-occupied state.
 - **The Link:** This "gap" is the **quantum of action**. It is the reason why energy is quantized; you cannot have a particle with less action than the minimum "Temporal Debt" required to sustain a stable vortex in the lattice.
 
+---
+
+## The Torsional Mechanics of $\eta$: Velocity vs. Dynamic Torque
+
+In the Vortical Lattice Dynamics (VLD) framework, the stability of a particle is not merely a kinematic state but a dynamic equilibrium between the rotational speed of the cell and the torsional resistance of the lattice.
+
+## 1. Velocity ($V_{vc}$) as the Geometric Gear Ratio
+
+The Vortical Cell Velocity, $V_{vc} \approx 0.707c$, represents the optimal gear ratio of the spacetime manifold.
+
+- At the $45^\circ$ phase identity, the lattice achieves a perfect balance between linear displacement and rotational containment.
+- Kinematic Limit: $V_{vc}$ is the maximum speed at which the lattice can "pump" energy through a single node without causing structural decoherence. It defines _how fast_ the vortex spins, but not _how much stress_ it can carry.
+
+## 2. $\eta$ as the Torsional Restorative Torque
+
+While $V_{vc}$ is the speed, Intrinsic Stiffness ($\eta$) acts as the Torsional Spring Constant of the vacuum.
+
+- Torsional Stress: When mass is formed, the 81.7% temporal gap ($\Delta t$) creates a structural "twist" in the lattice nodes. $\eta$ provides the counter-torque that attempts to "untwist" the node back to its ground state ($P_t^2 = 1.0$).
+- The Work of Mass: The effective action ($\hbar_{eff}$) is the work required to maintain this vortical rotation against the constant torsional resistance of $\eta$.
+
+## 3. The Saturation Point ($X=1$): Torsional Breakdown
+
+The Lattice Stress Identity ($X$) measures the total torque load on the node.
+
+- Linear Region ($X < 1$): The lattice acts as an elastic torsional spring. It can maintain the $V_{vc}$ resonance while supporting the mass load.
+- The Breakdown ($X = 1$): At the event horizon, the localized energy density applies a torque that exceeds the maximum restorative capacity of $\eta$.
+- Phase Transition: Instead of "snapping," the lattice engages its "Vortical Clutch." It ceases all attempts at linear restoration ($g_{rr} \to 0$) and permits 100% of the energy to flow into Saturated Vortical Torque. This is the mechanical origin of Vortical Repulsion ($F_{vr}$).
+
+## 4. Comparative Summary
+
+|Feature|Velocity ($V_{vc}$)|Torsional Stress ($\eta$)|
+|---|---|---|
+|Mechanical Role|Speed / Frequency Limit|Resistance / Restorative Force|
+|Baseline Value|$0.707c$ (Fixed)|$\eta \approx 10^{82}$ (Potential)|
+|Effect of Mass|Determines the 'Pitch'|Determines the 'Load'|
+|At Black Hole|Constant at the shell|Saturation & Redirection|
 

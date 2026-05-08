@@ -43,8 +43,10 @@ The derivation of the Vortical Coupling Constant ($k$) provides the physical bri
 1. Energy-Force Balance: Gravitational force emerges from the restorative pressure of the lattice bonds.
 2. Potential vs. Kinetic: While the total energy potential is related to $c^2$, the active gravitational coupling is governed by the rotational resonance frequency of the cell, defined by $V_{vc}^2$.
 3. The Formula: By isolating the constant that relates the damped terrestrial output ($G_0$) to the intrinsic lattice energy density, we derive:
+
    
-    $$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$
+$$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$
+
 
 ---
 

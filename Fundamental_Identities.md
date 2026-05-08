@@ -88,16 +88,22 @@ The partition of energy is determined by the Resonant Phase Angle at which baryo
 
 At a phase angle of $\theta = 64.7^\circ$, the probability density allocated to sustaining internal rotation (Mass) is:  
 
+
 $$P_{\theta}^2 = \sin^2(64.7^\circ)$$  
+
 $$\sin(64.7^\circ) \approx 0.9039$$  
-$$P_{\theta}^2 \approx 0.9039^2 \approx \mathbf{0.817} \text{ (81.7%)}$$
+
+$$P_{\theta}^2 \approx 0.9039^2 \approx \mathbf{0.817}$$ (81.7%)
 
 ## Step B: Calculating Temporal Efficiency ($P_t^2$)
 
 According to the probability invariance identity, the remaining probability manifests as the efficiency of linear temporal progression:  
 
+
 $$P_t^2 = 1 - P_{\theta}^2$$  
-$$P_t^2 = 1 - 0.817 = \mathbf{0.183} \text{ (18.3%)}$$
+
+$$P_t^2 = 1 - 0.817 = \mathbf{0.183}$$ (18.3%)
+
 
 ---
 

@@ -105,66 +105,62 @@ While $k$ and $X$ both involve lattice parameters, they describe different aspec
 
 ---
 
-## **📑 Mathematical Derivation: The $45^\circ$ Phase Identity and $V_{vc}$ Sync**
 
-In the **Vortical Gravity framework**, the stable existence of mass within a discrete lattice is governed by a specific geometric alignment. This is known as the **$45^\circ$ Phase Identity**, where the lattice partitions its energy between linear time and vortical rotation.
+## 📑 Mathematical Derivation: The 45° Phase Identity and $V_{vc}$ Synchronization
 
-## **1. The Geometry of the Vortical Cell**
+In the Vortical Lattice Dynamics (VLD) framework, the stability of baryonic mass within a discrete manifold is governed by a specific geometric alignment termed the 45° Phase Identity. This identity dictates how the lattice partitions its finite evolutionary probability between linear temporal progression and internal vortical resonance.
 
-The fundamental unit of spacetime is the **Vortical Cell**, where energy travels in a helical path. The maximum velocity of any signal within the lattice is the speed of light ($c$). However, the **Vortical Cell Velocity ($V_{vc}$)** is the component of that velocity assigned to the internal rotation of the cell.
+## 1. The Geometry of the Vortical Cell
 
-## **The Vector Identity:**
+The fundamental unit of spacetime is the Vortical Cell, where energy propagates in a helical trajectory. While the maximum signal velocity within the manifold is the speed of light ($c$), the Vortical Cell Velocity ($V_{vc}$) constitutes the velocity component dedicated to the internal rotational resonance of the node.
 
-$$c^2 = V_{linear}^2 + V_{vortical}^2$$ 
+## The Vector Identity:
 
-At the point of **Optimal Resonance** (the ground state of baryonic matter), the energy is partitioned equally between the two degrees of freedom. This occurs at a **$45^\circ$ phase angle ($\theta$)**.
+The total velocity vector is conserved across linear and vortical degrees of freedom:  
+$$c^2 = V_{linear}^2 + V_{vortical}^2$$
 
-## **2. Derivation of $V_{vc} = 0.707c$**
+At the threshold of Optimal Structural Resonance (the ground state of baryonic matter), energy is partitioned with maximum symmetry between these two modes. This equilibrium is achieved at a 45° Phase Angle ($\theta$).
 
-When the lattice reaches the $45^\circ$ resonance:
+## 2. Derivation of $V_{vc} = 0.707c$
 
-1. **Angle ($\theta$):** $45^\circ$
-2. **$\sin(45^\circ) = \cos(45^\circ) = \frac{1}{\sqrt{2}} \approx 0.707$**
+When the lattice satisfies the 45° resonance condition:
 
-Thus, the **Intrinsic Vortical Velocity ($V_{vc}$)** is:
+1. Resonance Angle ($\theta$): $45^\circ$
+2. Trigonometric Efficiency: $\sin(45^\circ) = \cos(45^\circ) = \frac{1}{\sqrt{2}} \approx 0.707$
 
-$$V_{vc} = c \cdot \sin(45^\circ) = \frac{c}{\sqrt{2}} \approx 0.707c$$ 
+Consequently, the Intrinsic Vortical Velocity ($V_{vc}$) is derived as:  
+$$V_{vc} = c \cdot \sin(45^\circ) = \frac{c}{\sqrt{2}} \approx 0.707c$$
 
-This value represents the **Saturated Rotational Speed** of a lattice node. It is the "engine speed" required to sustain a stable standing wave (Mass).
+This constant represents the Saturated Angular Velocity of a lattice node—the foundational "engine speed" required to sustain a stable standing wave (Mass).
 
-## **3. Synchronization with the 18.3% Temporal Efficiency (Earth Baseline: $P_t^2 = 0.183$)** 
+## 3. Synchronization with Terrestrial Temporal Efficiency ($P_t^2 = 0.183$)
 
-The $0.183$ value observed on the Earth-baseline is the **Residual Linear Efficiency** after the lattice has allocated its primary energy to $V_{vc}$.
+The 18.3% Temporal Efficiency observed on the Earth-baseline represents the Residual Linear Output of the lattice after accounting for mass-induced structural suppression.
 
-## **The Probability Sync:**
+## The Unitary Probability Sync:
 
-According to the **Probability Invariance Identity**:
+Pursuant to the Probability Invariance Identity:  
+$$P_t^2 + P_{\theta}^2 = 1$$
 
-$$P_t^2 + P_{\theta}^2 = 1$$ 
+On the terrestrial baseline, the "Mass-Energy" partition ($P_{\theta}^2$) is the square of the 45° resonance efficiency, further modified by the Global Structural Suppression ($\eta_{glb} < \eta$) inherent to high-mass environments.
 
-On Earth, the "Mass-Energy" component is the square of the $45^\circ$ resonance efficiency modified by the lattice's **Stiffness Damping ($\eta_{damping}$)**.
+- Ideal Resonant Partition ($P_{\theta}^2$): $\sin^2(45^\circ) = 0.5$ (50%)
+- Observed Terrestrial Partition ($P_{\theta}^2$): $\approx 0.817$ (81.7%)
+- Resulting Temporal Efficiency ($P_t^2$): $1 - 0.817 = \mathbf{0.183}$
 
-- **Ideal Resonance ($P_{\theta}^2$):** $\sin^2(45^\circ) = 0.5$
-- **Observed Mass-Energy Ratio ($P_{\theta}^2$):** $\approx 0.817$ (81.7%)
-- **Resulting Temporal Flux ($P_t$):** $\sqrt{1 - 0.817} \approx 0.427 \rightarrow$ damped to **0.183** by terrestrial lattice suppression.
-
-The temporal amplitude is $P_t = \sqrt{0.183} \approx 0.427$. This clarifies that approximately 43% of the potential time flow of the lattice is alive as amplitude, but the actual energy efficiency manifested is 18.3%.
-
-## **📊 Summary of Numerical Sync**
-
-| Parameter | Formula / Value | Physical Significance |
-| --- | --- | --- |
-| **Vortical Velocity ($V_{vc}$)** | $c / \sqrt{2} \approx 0.707c$ | Saturated Cell Engine Speed |
-| **Resonance Angle ($\theta$)** | **$45^\circ$** | Point of Optimal Mass-Energy Stability |
-| **Mass Partition ($P_{\theta}^2$)** | $0.817$ | Energy used for Internal Rotation |
-| **Temporal Efficiency ($P_t^2$)** | **$0.183$ (18.3%)** | Residual Linear Time on Earth |
+Analysis of Amplitude vs. Efficiency:  
+While the Temporal Efficiency is 18.3% ($P_t^2$), the Temporal Amplitude is $P_t = \sqrt{0.183} \approx 0.427$. This indicates that while 43% of the potential temporal "pulse" remains active as amplitude, the actual energetic work manifested as linear time is restricted to 18.3% due to the 81.7% consumption by the vortical mass-load.
 
 ---
 
-## **🚀 Theoretical Conclusion**
+## 📊 Summary of Numerical Synchronization
 
-The $45^\circ$ phase angle is the **"Golden Angle"** of the universe. It is the only orientation where the lattice can support **Trapped Light** while still allowing for a measurable flow of time ($P_t$). As we approach a Black Hole ($r \to 2$), this angle shifts toward $90^\circ$, causing $V_{linear} \to 0$ ($P_t \to 0$) and $V_{vortical} \to c$ ($P_{\theta} \to 1$), leading to the **Vortical Phase Transition**.
-
+|Parameter|Formula / Metric|Physical Significance|
+|---|---|---|
+|Vortical Velocity ($V_{vc}$)|$c / \sqrt{2} \approx 0.707c$|Saturated Cell Angular Velocity|
+|Resonance Angle ($\theta$)|45°|Optimal Mass-Energy Equilibrium|
+|Mass Partition ($P_{\theta}^2$)|0.817 (81.7%)|Total Energy utilized for Rotation|
+|Temporal Efficiency ($P_t^2$)|0.183 (18.3%)|Manifested Linear Time on Earth|
 
 ---
 

@@ -90,7 +90,7 @@ At a phase angle of $\theta = 64.7^\circ$, the probability density allocated to 
 
 $$P_{\theta}^2 = \sin^2(64.7^\circ)$$  
 $$\sin(64.7^\circ) \approx 0.9039$$  
-$$P_{\theta}^2 \approx 0.9039^2 \approx \mathbf{0.817} \text{ (81.7%)}$$
+$$P_{\theta}^2 \approx 0.9039^2 \approx \mathbf{0.817} \text{ (81.7} \%)$$
 
 ## Step B: Calculating Temporal Efficiency ($P_t^2$)
 

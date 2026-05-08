@@ -42,7 +42,8 @@ The derivation of the Vortical Coupling Constant ($k$) provides the physical bri
 
 1. Energy-Force Balance: Gravitational force emerges from the restorative pressure of the lattice bonds.
 2. Potential vs. Kinetic: While the total energy potential is related to $c^2$, the active gravitational coupling is governed by the rotational resonance frequency of the cell, defined by $V_{vc}^2$.
-3. The Formula: By isolating the constant that relates the damped terrestrial output ($G_0$) to the intrinsic lattice energy density, we derive:  
+3. The Formula: By isolating the constant that relates the damped terrestrial output ($G_0$) to the intrinsic lattice energy density, we derive:
+   
     $$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$
 
 ---
@@ -74,6 +75,7 @@ In the Vortical Lattice Dynamics (VLD) framework, the energy capacity of a latti
 ## 1. The Fundamental Identity
 
 The total evolutionary probability within any discrete lattice node is conserved as a unit:  
+
 $$P_t^2 + P_{\theta}^2 = 1$$
 
 ## 2. Derivation via the Phase Angle ($\theta$)
@@ -83,6 +85,7 @@ The partition of energy is determined by the Resonant Phase Angle at which baryo
 ## Step A: Calculating Mass-Energy Partition ($P_{\theta}^2$)
 
 At a phase angle of $\theta = 64.7^\circ$, the probability density allocated to sustaining internal rotation (Mass) is:  
+
 $$P_{\theta}^2 = \sin^2(64.7^\circ)$$  
 $$\sin(64.7^\circ) \approx 0.9039$$  
 $$P_{\theta}^2 \approx 0.9039^2 \approx \mathbf{0.817} \text{ (81.7\%)}$$
@@ -90,6 +93,7 @@ $$P_{\theta}^2 \approx 0.9039^2 \approx \mathbf{0.817} \text{ (81.7\%)}$$
 ## Step B: Calculating Temporal Efficiency ($P_t^2$)
 
 According to the probability invariance identity, the remaining probability manifests as the efficiency of linear temporal progression:  
+
 $$P_t^2 = 1 - P_{\theta}^2$$  
 $$P_t^2 = 1 - 0.817 = \mathbf{0.183} \text{ (18.3\%)}$$
 
@@ -135,6 +139,7 @@ The fundamental unit of spacetime is the Vortical Cell, where energy propagates 
 ## The Vector Identity:
 
 The total velocity vector is conserved across linear and vortical degrees of freedom:  
+
 $$c^2 = V_{linear}^2 + V_{vortical}^2$$
 
 At the threshold of Optimal Structural Resonance (the ground state of baryonic matter), energy is partitioned with maximum symmetry between these two modes. This equilibrium is achieved at a 45° Phase Angle ($\theta$).
@@ -147,6 +152,7 @@ When the lattice satisfies the 45° resonance condition:
 2. Trigonometric Efficiency: $\sin(45^\circ) = \cos(45^\circ) = \frac{1}{\sqrt{2}} \approx 0.707$
 
 Consequently, the Intrinsic Vortical Velocity ($V_{vc}$) is derived as:  
+
 $$V_{vc} = c \cdot \sin(45^\circ) = \frac{c}{\sqrt{2}} \approx 0.707c$$
 
 This constant represents the Saturated Angular Velocity of a lattice node—the foundational "engine speed" required to sustain a stable standing wave (Mass).
@@ -158,6 +164,7 @@ The 18.3% Temporal Efficiency observed on the Earth-baseline represents the Resi
 ## The Unitary Probability Sync:
 
 Pursuant to the Probability Invariance Identity:  
+
 $$P_t^2 + P_{\theta}^2 = 1$$
 
 On the terrestrial baseline, the "Mass-Energy" partition ($P_{\theta}^2$) is the square of the 45° resonance efficiency, further modified by the Global Structural Suppression ($\eta_{glb} < \eta$) inherent to high-mass environments.

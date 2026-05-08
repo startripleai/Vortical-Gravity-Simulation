@@ -104,9 +104,9 @@ According to the probability invariance identity, the remaining probability mani
 
 $$P_t^2 = 1 - P_{\theta}^2$$  
 
-<div style="text-align: center;">
-$$P_t^2 = 1 - 0.817 = \mathbf{0.183}$$ (18.3%)
-</div>
+$$P_t^2 = 1 - 0.817 = \mathbf{0.183}$$ 
+$$ \text{(18.3%)}$$
+
 
 ---
 

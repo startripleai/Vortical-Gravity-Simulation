@@ -293,6 +293,7 @@ In the Vortical Lattice Dynamics (VLD) framework, the speed of light ($c$) is no
 ## 1. The Conductivity Identity
 
 The speed at which a signal propagates through the manifold is a direct function of the Intrinsic Stiffness ($\eta$) and the Temporal Efficiency ($P_t^2$) of the local nodes:  
+
 $$c \propto \sqrt{\frac{\eta \cdot P_t^2}{\text{Inertial Resistance}}}$$
 
 - High Stiffness ($\eta \approx 10^{82}$): Provides the high-tension medium required for near-instantaneous state-transfers.

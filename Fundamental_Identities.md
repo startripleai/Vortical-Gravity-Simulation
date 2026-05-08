@@ -93,17 +93,20 @@ $$P_{\theta}^2 = \sin^2(64.7^\circ)$$
 
 $$\sin(64.7^\circ) \approx 0.9039$$  
 
-$$P_{\theta}^2 \approx 0.9039^2 \approx \mathbf{0.817}$$ (81.7%)
+<div style="text-align: center;">
+  $$P_{\theta}^2 \approx 0.9039^2 \approx \mathbf{0.817}$$ (81.7%)
+</div>
+
 
 ## Step B: Calculating Temporal Efficiency ($P_t^2$)
 
 According to the probability invariance identity, the remaining probability manifests as the efficiency of linear temporal progression:  
 
-
 $$P_t^2 = 1 - P_{\theta}^2$$  
 
+<div style="text-align: center;">
 $$P_t^2 = 1 - 0.817 = \mathbf{0.183}$$ (18.3%)
-
+</div>
 
 ---
 

@@ -132,7 +132,7 @@ $$V_{vc} = c \cdot \sin(45^\circ) = \frac{c}{\sqrt{2}} \approx 0.707c$$
 
 This value represents the **Saturated Rotational Speed** of a lattice node. It is the "engine speed" required to sustain a stable standing wave (Mass).
 
-## **3. Synchronization with the 18.3% Temporal Flux ($P_t = 0.183$)**
+## **3. Synchronization with the 18.3% Temporal Efficiency (Earth Baseline: $P_t^2 = 0.183$)** 
 
 The $0.183$ value observed on the Earth-baseline is the **Residual Linear Efficiency** after the lattice has allocated its primary energy to $V_{vc}$.
 
@@ -157,7 +157,7 @@ The temporal amplitude is $P_t = \sqrt{0.183} \approx 0.427$. This clarifies tha
 | **Vortical Velocity ($V_{vc}$)** | $c / \sqrt{2} \approx 0.707c$ | Saturated Cell Engine Speed |
 | **Resonance Angle ($\theta$)** | **$45^\circ$** | Point of Optimal Mass-Energy Stability |
 | **Mass Partition ($P_{\theta}^2$)** | $0.817$ | Energy used for Internal Rotation |
-| **Temporal Flux ($P_t$)** | **$0.183$ (18.3%)** | Residual Linear Time on Earth |
+| **Temporal Efficiency ($P_t^2$)** | **$0.183$ (18.3%)** | Residual Linear Time on Earth |
 
 ---
 

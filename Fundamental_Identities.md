@@ -1,107 +1,68 @@
-## **📄 Fundamental Identities**
 
-To resolve the discrepancies of General Relativity, the **Vortical Gravity Simulation** is built upon three primary mathematical identities that govern the interaction between the discrete lattice and mass-energy.
+## 📑 Fundamental Identities of Vortical Lattice Dynamics
 
-## **1. The Probability Invariance Identity**
+To resolve the discrepancies inherent in General Relativity, the Vortical Gravity Simulation is built upon three primary mathematical identities that govern the interaction between the discrete lattice and mass-energy.
 
-The total computational capacity of a lattice node is conserved. Any increase in vortical rotation ($P_{\theta}$) directly suppresses the linear temporal flux ($P_t$). 
+## 1. The Probability Invariance Identity
+
+The total computational (evolutionary) capacity of a lattice node is a conserved unit. Any increase in localized vortical rotation ($P_{\theta}$) necessitates a proportional suppression of the linear temporal flux ($P_t$).
 
 $$P_t^2 + P_{\theta}^2 = 1$$
 
-- **Earth Baseline:** $P_t^2 = 0.183$ (18.3% Time) $\rightarrow P_{\theta}^2 = 0.817$ (81.7% Mass-Energy).
-- **Horizon Saturation:** $P_t = 0$ $\rightarrow P_{\theta} = 1.0$ (100% Mass-Energy).
+- Earth Baseline: $P_t^2 = 0.183$ (18.3% Temporal Efficiency) $\rightarrow P_{\theta}^2 = 0.817$ (81.7% Mass-Energy Partition).
+- Horizon Saturation: $P_t^2 = 0$ (Linear Time Stasis) $\rightarrow P_{\theta}^2 = 1.0$ (100% Mass-Energy Saturation).
 
-## **2. The Vortical Coupling Constant ($k$)**
+## 2. The Vortical Coupling Constant ($k$)
 
-The observed gravitational constant ($G_0$) is a secondary efficiency derived from the global stiffness ($\eta$) and the characteristic velocity of the vortical cell ($V_{vc}$). 
+The observed gravitational constant ($G_0$) is a secondary efficiency derived from the Intrinsic Stiffness ($\eta$) and the Vortical Cell Velocity ($V_{vc}$).
 
-$$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$ 
+$$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$
 
-$V_{vc}$ is the Intrinsic Rotational Velocity of the discrete lattice cell. It represents the maximum kinetic capability of the vacuum. When mass occupies the lattice, a portion of $V_{vc}$ is diverted into internal vortical resonance, explaining the Temporal Damping ($0.183$) observed on the Earth baseline.
+$V_{vc} \approx 0.707c$ represents the Intrinsic Rotational Velocity of the discrete lattice cell. It defines the maximum kinetic capacity of the vacuum ground state. When mass occupies the lattice, the "Temporal Damping" of 0.183 observed on Earth is the residual efficiency left after the lattice has allocated its primary energy to sustain internal vortical resonance.
 
-This formula defines the **"Gear Ratio"** of the universe, proving that $G$ is a variable coupling that recovers to $G_{max}$ as the structural suppression of the lattice vanishes in a vacuum.
+This identity defines the "Gear Ratio" of the universe, proving that $G$ is a variable coupling that recovers toward $G_{max}$ as the structural suppression of the lattice vanishes in a vacuum.
 
-## **3. The Lattice Stress Identity ($X$)**
+## 3. The Lattice Stress Identity ($X$)
 
-The **Lattice Stress ($X$)** acts as a structural pressure gauge, determining the transition from linear collapse to vortical resonance. 
+The Lattice Stress ($X$) acts as a structural pressure gauge, determining the transition from linear radial collapse to vortical resonance.
 
 $$X = \frac{\rho \cdot \eta}{\rho_{Planck}}$$
 
-- **Linear Range ($X < 1$):** Standard gravitational interaction (e.g., planets, stars).
-- **Saturation Point ($X = 1$):** At a critical density of **$10^{14} \text{ kg/m}^3$**, the lattice hits its "structural ceiling."
-- **Phase Transition:** When $X \to 1$, the system is forced into **Vortical Rotation**, generating **Vortical Repulsion ($F_{vr}$)** and forming the **Vortical Void**.
+- Linear Regime ($X < 1$): Governs standard gravitational interactions (planets, stars) where the lattice behaves elastically.
+- Saturation Point ($X = 1$): At a critical density of $\approx 10^{14} \text{ kg/m}^3$, the local inflation hits the structural ceiling of the manifold.
+- Vortical Phase Transition: At $X \to 1$, radial inward flux is converted into Vortical Rotation, generating Vortical Repulsion ($F_{vr}$) and forming the non-singular Vortical Void.
 
 ---
 
-  ### **🚀 Theoretical Conclusion**
+## 🚀 The Mechanics of Gravitational Coupling
 
-- **Unified Scale:** These three formulas link the **Sub-Planckian Lattice**, **Nuclear-scale Density**, and **Cosmological Constants** into one coherent system.
-- **Falsifiability:** The $k$ constant predicts a specific rate of $G$-recovery in deep space, while $X=1$ predicts the non-singular density of black hole cores.
+The derivation of the Vortical Coupling Constant ($k$) provides the physical bridge between macroscopic gravitational observations ($G_0$) and the microscopic properties of the discrete lattice ($\eta, V_{vc}$).
 
----
+## Derivation Logic:
 
-## **📄 The Vortical Coupling Identity**
-
-The relationship between baryonic gravity and the discrete manifold is governed by the **Vortical Coupling Constant ($k$):**
-
-$$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$
-
-This constant proves that $G_0$ is not a fundamental building block, but a **Secondary Efficiency** derived from the Global Stiffness ($\eta$). 
-
----
-**🚀 Comparison with Stress ($X$):**
-
-While $k$ defines the steady-state interaction between matter and the grid, **Lattice Stress ($X$)** monitors the approach to the **Saturation Point**. When $X \to 1$, the coupling constant $k$ effectively "shifts gears" from radial pull to **Vortical Repulsion**, preventing the singularity and forming the Resonant Torus.
-
-The derivation of the **Vortical Coupling Constant ($k$)** provides the mathematical bridge between the macroscopic gravitational constant ($G_0$) and the microscopic properties of the discrete lattice ($\eta, V_{vc}$).
-
-This constant defines how efficiently the lattice converts "Temporal Suppression" into "Gravitational Force."
+1. Energy-Force Balance: Gravitational force emerges from the restorative pressure of the lattice bonds.
+2. Potential vs. Kinetic: While the total energy potential is related to $c^2$, the active gravitational coupling is governed by the rotational resonance frequency of the cell, defined by $V_{vc}^2$.
+3. The Formula: By isolating the constant that relates the damped terrestrial output ($G_0$) to the intrinsic lattice energy density, we derive:  
+    $$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$
 
 ---
 
-## **1. Derivation of the Vortical Coupling Constant ($k$)**
+## 📊 Comparative Analysis: Coupling ($k$) vs. Stress ($X$)
 
-The derivation starts from the **Lattice Energy Identity**, where the observed gravity ($G_0$) is a function of the total lattice potential $(\eta)$ and the velocity of the fundamental vortical cell ($V_{vc}$).
+While both identities involve lattice parameters, they characterize distinct mechanical regimes of the spacetime fabric.
 
-**Step A: The Force-Energy Balance**
+|Component|Coupling Constant ($k$)|Lattice Stress ($X$)|
+|---|---|---|
+|Physical Role|The Structural Bridge: Relates $G$ to Lattice energy.|The Elastic Limit: Measures local saturation.|
+|Function|Defines the Efficiency of force transmission.|Defines the Threshold of phase transition.|
+|Scale|Global: Constant throughout the manifold.|Local: Varies with mass density ($\rho$).|
+|At Black Hole|Remains invariant (The law of coupling).|Reaches $X=1$ (Mandating the Torus).|
 
-In the Vortical Model, the gravitational force emerges from the restorative pressure of the lattice. The energy density of the lattice is governed by its stiffness ($\eta$) and the characteristic velocity of the vortical cell ($v$).
+## Theoretical Conclusion:
 
-**Step B: The Identity Equation**
-
-$$G_0 = k \cdot (\eta \cdot c^2)$$ 
-
-To find $k$, we isolate the constant that relates the terrestrial gravitational output ($G_0$) to the intrinsic lattice energy density.
-
-**Step C: Final Formulation**
-
-$$k = \frac{G_0}{\eta \cdot c^2}$$
-
-**Note:** Using $c^2$ or the specific vortical velocity $V_{vc}^2$ depends on whether we are calculating the total potential or the active kinetic coupling. For the **Vortical Engine**, we use $V_{vc}^2$ to represent the active rotational resonance.
-
-**The Result:**
-
-$$k = \frac{G_0}{\eta \cdot V_{vc}^2}$$
-
-- **$G_0$:** The damped gravitational constant measured on Earth.
-- **$\eta$:** The cosmic lattice stiffness ($\approx 10^{82}$).
-- **$V_{vc}$:** The characteristic velocity of the vortical cell (linked to the $0.183$ temporal flux).
-
----
-
-## **2. Comparison: Coupling Constant ($k$) vs. Lattice Stress ($X$)**
-
-While $k$ and $X$ both involve lattice parameters, they describe different aspects of the system's mechanics.
-
-| Component | **Coupling Constant ($k$)** | **Lattice Stress ($X$)** |
-| --- | --- | --- |
-| **Physical Role** | **The Bridge:** Relates $G$ to Lattice energy. | **The Limit:** Measures local saturation. |
-| **Function** | Defines the **Efficiency** of force transmission. | Defines the **Threshold** of phase transition. |
-| **Scale** | **Global:** Constant throughout the lattice. | **Local:** Varies with mass density ($\rho$). |
-| **At Black Hole** | Remains invariant (The rule of coupling). | Reaches **$X=1$** (Triggering the Torus). |
-
-- **$k$** is the **"Gear Ratio"** of the universe—it tells the lattice how much gravity to produce for a given amount of mass.
-- **$X$** is the **"Pressure Gauge"**—it tells the lattice when the mass is too heavy to handle linearly, mandating a vortex.
+- $k$ is the Universal Gear Ratio—it dictates how much gravitational force the lattice generates for a given energy density.
+- $X$ is the Manifold Pressure Gauge—it dictates the point where the lattice can no longer accommodate mass linearly, forcing a topological shift into a Vortical Engine.
+- Unified Scale: Together, these identities link the Sub-Planckian Lattice, Nuclear-scale Density, and Cosmological Constants into a single, computable framework that resolves the $1/r$ divergence of General Relativity.
 
 ---
 

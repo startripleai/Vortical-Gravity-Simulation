@@ -1,25 +1,35 @@
-# 🌌 Vortical Gravity Simulation Engine (Ver 1.0.2)
 
-This repository provides the official numerical verification and visualization tools for the **Vortical Gravity** framework, as presented in the *Absolute Quadrilogy* (Papers I–IV). 
+## 🌌 Vortical Lattice Dynamics (VLD) Simulation Engine (v1.0.2)
 
-The engine simulates galactic rotation curves and resolves the "Dark Sector" anomalies by treating the gravitational constant $G$ as a dynamic efficiency variable of the spacetime lattice.
+This repository provides the official numerical verification and visualization environment for the Vortical Lattice Dynamics (VLD) framework, as formalized in the _Absolute Quadrilogy_ (Papers I–IV).
 
-## 🚀 Key Theoretical Pillars
-- **Democratic Gravity**: Gravitational efficiency recovers to its unsuppressed vacuum potential ($G_{max} \approx 5.46 G_0$) in low-density regimes.
-- **The $10^{122}$ Resolution**: Resolves the Cosmological Constant Problem using the quadratic temporal scaling of the cosmic time-horizon: $P_{EP} \propto (t_p/t_{age})^2$.
-- **Non-Particle Dark Matter**: Explains galactic rotation curves through **Geometric Stiffening** ($\eta \approx 10^{82}$) without invoking non-baryonic particles.
+The engine simulates galactic rotation curves and resolves "Dark Sector" anomalies by characterizing the gravitational constant ($G$) as a dynamic coupling efficiency of the discrete spacetime manifold.
 
-## 📊 Galactic Validation Overview
-The simulation reproduces the results of **Paper IV (Table 5)** with high precision:
+## 🚀 Theoretical Foundations
 
-| Galaxy | Radius ($R$) | Baryonic Density ($\rho$) | $G$ Recovery Ratio | Predicted Velocity |
-| :--- | :--- | :--- | :--- | :--- |
-| **Milky Way** | 25 kpc | $6.31 \times 10^{-23}$ kg/m³ | **2.885** | **173.1 km/s** |
-| **Andromeda** | 30 kpc | $9.12 \times 10^{-23}$ kg/m³ | **2.051** | **210.7 km/s** |
-| **Triangulum** | 15 kpc | $2.44 \times 10^{-23}$ kg/m³ | **5.463** ($G_{max}$) | **88.8 km/s** |
+- Metric Restoration ($G_{max}$): Gravitational efficiency asymptotically recovers to its unsuppressed vacuum potential ($G_{max} \approx 5.46 G_0$) in low-density, high-stiffness regimes.
+- Resolution of the $10^{122}$ Discrepancy: Provides a structural solution to the Cosmological Constant Problem using the quadratic temporal scaling of the cosmic horizon: $P_{EP} \propto (t_{Planck}/t_{age})^2$.
+- Non-Baryonic Halos Obviated: Explains galactic kinematics through Structural Lattice Stiffening ($\eta \approx 10^{82}$), eliminating the requirement for non-baryonic dark matter particles.
 
-### 📐 Geometric Calibration Note
-As per standard galactic dynamics (Binney & Tremaine), the non-spherical disk geometry enhances the radial gravitational gradient by approximately **10%–15%** relative to a spherical baseline. In this simulation, this geometric factor is integrated into the baseline Newtonian values, with the remaining significant discrepancy resolved entirely through the **Vortical G-Recovery** mechanism.
+## 📊 Galactic Kinematic Validation
+
+The simulation reproduces the empirical results of Paper IV (Table 5) with high precision, utilizing Gaia DR3 and HI survey data:
+
+|Target Galaxy|Radial Boundary ($R$)|Baryonic Density ($\rho$)|$G$ Recovery Ratio ($G/G_0$)|Vortical Velocity (Predicted)|
+|---|---|---|---|---|
+|Milky Way|25 kpc|$6.31 \times 10^{-23} \, \text{kg/m}^3$|2.885|173.1 km/s|
+|Andromeda (M31)|30 kpc|$9.12 \times 10^{-23} \, \text{kg/m}^3$|2.051|210.7 km/s|
+|Triangulum (M33)|15 kpc|$2.44 \times 10^{-23} \, \text{kg/m}^3$|5.463 ($G_{max}$)|88.8 km/s|
+
+## 📐 Geometric Calibration and Metric Correction
+
+In accordance with standard galactic dynamics (Binney & Tremaine), the non-spherical disc geometry induces a radial gravitational gradient enhancement of approximately 10%–15% relative to a spherical potential. In the VLD engine, this geometric factor is integrated into the baseline Newtonian values. The remaining anomalous acceleration is resolved entirely through the Lattice G-Restoration mechanism, demonstrating that the "missing mass" is a manifestation of recovered manifold stiffness.
+
+---
+
+## 🚀 Theoretical Impact for Researchers
+
+The VLD Engine proves that the "Dark Sector" is a consequence of assuming a static $G$ in a dynamic manifold. By accounting for the Intrinsic Stiffness ($\eta$) of the vacuum, this model unifies local gravity and galactic-scale rotation into a single, computable mechanical system.
 
 [Read more about Galactic Geometry]([GEOMETRY.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/GEOMETRY.md)
 

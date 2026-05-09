@@ -30,6 +30,7 @@ This model provides a first-principles derivation for the diverse structural con
 ## 5. Topological Identity of Scale-Height
 
 The vertical scale-height is the minimum volume required to satisfy the Probability Invariance Identity:  
+
 $$P_t^2 + P_{\theta}^2 = 1$$
 
 To preserve the Discrete Temporal Symmetry Breaking ($\Delta t$), the lattice must maintain sufficient vertical "breathing room." This prevents the manifold from achieving localized saturation ($X=1$), which would otherwise trigger an un-checked phase transition into a non-singular vortical engine.

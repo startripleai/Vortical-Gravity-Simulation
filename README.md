@@ -68,6 +68,11 @@ The VLD Engine proves that the "Dark Sector" is a consequence of assuming a stat
 
 ![Dynamic_Simulator_(v2.6)_10x.gif,](Dynamic_Simulator_(v2.6)_10x.gif)
 
+   - Open 'Asymptotic Force Analysis: The Vortical Void (r<1) and Torus (1<r<2).ipynb` in VS Code or Jupyter and execute all cells to generate the Asymptotic Force Analysis.[Asymptotic_Force_Analysis_The_Vortical_Void_and_Torus.ipynb]([Asymptotic_Force_Analysis_The_Vortical_Void_and_Torus.ipynb](https://github.com/startripleai/Asymptotic_Force_Analysis_The_Vortical_Void_and_Torus.ipynb)
+
+![Asymptotic_Force_Analysis.png,](Asymptotic_Force_Analysis.png)
+
+
 ## 📚 Absolute Quadrilogy (Papers I-IV)
 1. **Paper I**: [Lattice Stiffness & The G-Unit]([https://doi.org](https://doi.org/10.5281/zenodo.19652476)
 2. **Paper II**: [Singularity Resolution & The Vortical Radius]([https://doi.org](https://doi.org/10.5281/zenodo.19664079)

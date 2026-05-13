@@ -77,8 +77,8 @@ The VLD Engine proves that the "Dark Sector" is a consequence of assuming a stat
 1. **Paper I**: [Lattice Stiffness & The G-Unit]([https://doi.org](https://doi.org/10.5281/zenodo.20139615)
 2. **Paper II**: [Singularity Resolution & The Vortical Radius]([https://doi.org](https://doi.org/10.5281/zenodo.19664079)
 3. **Paper III**: [The Volumetric Vortex & Light Emergence]([https://doi.org](https://doi.org/10.5281/zenodo.19916654)
-4. **Paper IV**: [The Emergent Dark Sector The 10^122 Resolution (v1.0.1)]([https://doi.org](https://doi.org/10.5281/zenodo.19786931)
-5. **Paper IV**: [The Emergent Dark Sector The 10^122 Resolution (v1.0.2)]([https://doi.org](https://doi.org/10.5281/zenodo.19859532)
+4. **Paper IV-1**: [The Emergent Dark Sector The 10^122 Resolution (v1.0.1)]([https://doi.org](https://doi.org/10.5281/zenodo.19786931)
+5. **Paper IV-2**: [The Emergent Dark Sector The 10^122 Resolution (v1.0.2)]([https://doi.org](https://doi.org/10.5281/zenodo.19859532)
 6. **Paper V**: [The Vortical Lattice Dynamics (VLD)]([https://doi.org](https://doi.org/10.5281/zenodo.20106232)
 
 ## ⚖️ License & Citation

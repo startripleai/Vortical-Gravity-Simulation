@@ -73,7 +73,7 @@ The VLD Engine proves that the "Dark Sector" is a consequence of assuming a stat
 ![Asymptotic_Force_Analysis.png,](Asymptotic_Force_Analysis.png)
 
 
-## 📚 Absolute Quadrilogy (Papers I-IV)
+## 📚 The Vortical Lattice Dynamics (VLD)
 1. **Paper I**: [Lattice Stiffness & The G-Unit]([https://doi.org](https://doi.org/10.5281/zenodo.20139615)
 2. **Paper II**: [Singularity Resolution & The Vortical Radius]([https://doi.org](https://doi.org/10.5281/zenodo.19664079)
 3. **Paper III**: [The Volumetric Vortex & Light Emergence]([https://doi.org](https://doi.org/10.5281/zenodo.19916654)

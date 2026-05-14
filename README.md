@@ -1,7 +1,7 @@
 
 ## 🌌 Vortical Lattice Dynamics (VLD) Simulation Engine (v1.0.2)
 
-This repository provides the official numerical verification and visualization environment for the Vortical Lattice Dynamics (VLD) framework, as formalized in the _Absolute Quadrilogy_ (Papers I–IV).
+This repository provides the official numerical verification and visualization environment for the Vortical Lattice Dynamics (VLD) framework, as formalized in the Vortical Quantum Gravity Research Series.
 
 The engine simulates galactic rotation curves and resolves "Dark Sector" anomalies by characterizing the gravitational constant ($G$) as a dynamic coupling efficiency of the discrete spacetime manifold.
 

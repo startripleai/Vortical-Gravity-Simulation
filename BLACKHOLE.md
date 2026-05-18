@@ -14,13 +14,24 @@ The Vortical Black Hole is defined by a specific metric transition across two cr
 - Event Horizon ($r=2$): The boundary of Temporal Stasis. Here, the lattice’s linear temporal efficiency ($P_t^2$) vanishes, and the rotational probability ($P_\theta^2$) saturates to $1.0$. This is the "Phase-Lock" boundary where infalling energy is redirected into vortical motion.
 - The Stability Radius ($r=1$): The internal Structural Barrier. At this radius, the Vortical Repulsion ($F_{vr}$) perfectly counterbalances the gravitational pull. It represents the "Vortical Unit" of the lattice—the minimum radius required to contain the saturated energy density without structural failure.
 
-## 3. The Vortical Void (Central Restitution)
+## 3. Terminal Saturation: The Geometric Brake at the Vortical Radius
 
-Contrary to the singularity thesis, the geometric center of a black hole ($0 \le r < 1$) is a Vortical Void:
+The emergence of the non-singular **Vortical Radius ($r_v = \frac{G_{max}M}{c^2}$)** is the direct mechanical consequence of the Nodal Bandwidth Protocol reaching its absolute limits of resource allocation ($X \to 1$). 
 
-- Vortical Repulsion ($F_{vr}$): The extreme angular frequency at the torus shell generates a non-Newtonian outward pressure. This force actively displaces all baryonic and electromagnetic flux away from the core, pushing it toward the $r=1$ to $r=2$ shell.
-- Pure Restoration: As mass-energy is excluded from the center, the structural suppression of the manifold vanishes. The core achieves Central Restitution, where the lattice is perfectly restored to its ground-state stiffness ($\eta \approx 10^{82}$) and maximum temporal efficiency ($P_t^2 = 1.0$).
-- Toroidal Geometry: This mechanical exclusion results in a 3D Resonant Torus geometry. The black hole is effectively a "hollow" structure with a quantized physical thickness of exactly 1 Vortical Unit.
+### 3.1 Kinematic Redirection and Metric Parity
+As a mass-energy core collapses gravitationally, the localized field stress increases, forcing individual lattice units to reallocate an increasing percentage of their processing cycles into localized rotational (vortical) states to preserve topological connectivity. 
+
+At the event horizon boundary, the lattice hits its terminal constitutive load-bearing capacity. Because the processing bandwidth is fixed at unity, the system enters a regime of **metric parity**, where the lattice can no longer distinguish between inward gravitational compression and outward structural resistance. This forces an exact 50/50 equipartition of the node's operational budget between the radial and tangential vectors:
+
+$$v_r^2 = v_{\theta}^2 \implies v_{\theta} = \frac{c}{\sqrt{2}} \approx 0.707c$$
+
+### 3.2 The Launch of Vortical Repulsion ($F_{vr}$)
+This terminal rotational velocity generates an objective mechanical force defined as **Vortical Repulsion ($F_{vr}$)**. Unlike standard continuous metrics where gravity diverges as $1/r^2$, the frequency gradient of the saturated lattice nodes yields a non-Newtonian, inverse-cubic potential barrier:
+
+$$F_{vr} = \zeta \cdot \frac{P_{\theta}^2}{r^3}$$
+
+Because the cubic repulsion diverges faster than the square gravitational attraction as $r \to 0$, a perfect topological barrier is established. The temporal step efficiency drops to a quantized dilation limit, halting radial inward flux ($g_{rr} \to 0$) and hollowing out the core to form the **Vortical Void** surrounded by a stable **3D Resonant Torus**. The singularity problem is solved entirely by computational resource redirection.
+
 
 ## 4. Theoretical Comparison: GR vs. Vortical Gravity
 

@@ -31,6 +31,8 @@ In accordance with standard galactic dynamics (Binney & Tremaine), the non-spher
 
 The VLD Engine proves that the "Dark Sector" is a consequence of assuming a static $G$ in a dynamic manifold. By accounting for the Intrinsic Stiffness ($\eta$) of the vacuum, this model unifies local gravity and galactic-scale rotation into a single, computable mechanical system.
 
+[Read more about GRAVITY]([GRAVITY.md](https://github.com/startripleai/vortical-quantum-gravity/blob/main/GRAVITY.md)
+
 [Read more about Galactic Geometry]([GEOMETRY.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/GEOMETRY.md)
 
 [Read more about Mathematical Proofs & Fundamental Identities]([Fundamental_Identities.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/Fundamental_Identities.md)
@@ -40,8 +42,6 @@ The VLD Engine proves that the "Dark Sector" is a consequence of assuming a stat
 [Read more about Vortical Black Hole Dynamic Simulator]([COMPARISON.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/COMPARISON.md)
 
 [Read more about the Necessity of Rotation for Singularity Resolution]([DISCUSSION.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/DISCUSSION.md)
-
-[Read more about GRAVITY]([GRAVITY.md](https://github.com/startripleai/vortical-quantum-gravity/blob/main/GRAVITY.md)
 
 ## 🛠 Installation & Usage
 ### Prerequisites
